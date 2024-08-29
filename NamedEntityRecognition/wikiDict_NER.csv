@@ -1,0 +1,678 @@
+text;label
+The acorn, or oaknut, is the nut of the oaks and their close relatives (genera "Quercus" and "Lithocarpus", in the family Fagaceae).;acorn PIVOT,nut CONTEXT
+It usually contains one seed (occasionally two seeds), enclosed in a tough, leathery shell, and borne in a cup shaped cupule.;tough HARDNESS,leathery TEXTURE,shell COMPONENT,cupule COMPONENT
+Acorns are long and on the fat side.;Acorns PIVOT,long SIZE
+Acorns take between 6 and 24 months (depending on the species) to mature, see the list of "Quercus" species for details of oak classification, in which acorn morphology and phenology are important factors.;Acorns PIVOT
+The fruit of the oak, being an oval nut growing in a woody cup or cupule.;fruit CONTEXT,oval GEOMETRY,nut CONTEXT,woody MATERIAL,cupule COMPONENT
+fruit of the oak tree: a smooth thin walled nut in a woody cup shaped base.;fruit CONTEXT,smooth TEXTURE,nut CONTEXT,woody MATERIAL
+An acorn is a pale oval nut that is the fruit of an oak tree.;acorn PIVOT,oval GEOMETRY,nut CONTEXT,fruit CONTEXT
+the nut of the oak usually seated in or surrounded by a hard woody cupule of indurated bracts.;nut PIVOT,hard HARDNESS,woody MATERIAL,cupule COMPONENT
+the nut of an oak tree, shaped like a small egg with a cover like a cup at one end.;nut PIVOT,small SIZE
+the typically ovoid fruit or nut of an oak, enclosed at the base by a cupule.;ovoid GEOMETRY,fruit CONTEXT,nut CONTEXT,cupule COMPONENT
+The fruit of an oak, consisting of a single seeded, thick walled nut set in a woody, cuplike base.;fruit CONTEXT,nut CONTEXT,woody MATERIAL
+The fruit of the oak tree, a smooth oval nut in a rough cup shaped base.;fruit CONTEXT,smooth TEXTURE,oval GEOMETRY,nut CONTEXT,rough TEXTURE
+An apple is an edible fruit produced by an apple tree (Malus domestica).;apple PIVOT,fruit CONTEXT
+Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists.;Apples PIVOT
+A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.;round GEOMETRY,fruit CONTEXT
+fruit with red or yellow or green skin and sweet to tart crisp whitish flesh.;fruit CONTEXT,red COLOR,yellow COLOR,green COLOR
+An apple is a round fruit with smooth green, yellow, or red skin and firm white flesh.;apple PIVOT,round GEOMETRY,fruit CONTEXT,smooth TEXTURE,green COLOR,yellow COLOR,red COLOR
+the fleshy, usually rounded red, yellow, or green edible pome fruit of a usually cultivated tree (genus Malus) of the rose family.;rounded GEOMETRY,red COLOR,yellow COLOR,green COLOR,fruit CONTEXT
+a hard round fruit that is white inside and has a smooth green, yellow, or red skin, which is called peel when it has been removed.;hard HARDNESS,round GEOMETRY,fruit CONTEXT,white COLOR,smooth TEXTURE,green COLOR,yellow COLOR,red COLOR,peel COMPONENT
+the usually round, red or yellow, edible fruit of a small tree, Malus sylvestris, of the rose family.;round GEOMETRY,red COLOR,yellow COLOR,fruit CONTEXT
+The firm, edible, usually rounded fruit of this tree.;firm HARDNESS,rounded GEOMETRY,fruit CONTEXT
+An apricot (, ) is a fruit, or the tree that bears the fruit, of several species in the genus "Prunus" (stone fruits).;apricot PIVOT,fruit CONTEXT
+The round fruit of a tree of the rose family, which typically has thin red or green skin and crisp flesh.;round GEOMETRY,fruit CONTEXT,thin GEOMETRY,red COLOR,green COLOR,skin COMPONENT
+A round sweet and juicy stone fruit, resembling peach or plum in taste, with a yellow orange flesh, lightly fuzzy skin and a large seed inside.;round GEOMETRY,fruit CONTEXT,yellow COLOR,orange COLOR,fuzzy TEXTURE,skin COMPONENT,large SIZE,seed COMPONENT
+An apricot is a small, soft, round fruit with yellowish orange flesh and a stone inside.;apricot PIVOT,small SIZE,soft HARDNESS,round GEOMETRY,fruit CONTEXT,yellowish COLOR,orange COLOR
+the oval orange colored fruit of a temperate-zone tree (Prunus armeniaca) resembling the related peach and plum in flavor.;oval GEOMETRY,orange COLOR,fruit CONTEXT
+a soft fruit with an orange yellow skin and a large hard seed inside.;soft HARDNESS,fruit CONTEXT,orange COLOR,yellow COLOR,skin COMPONENT,large SIZE,hard HARDNESS,seed COMPONENT
+the downy, yellow, sometimes rosy fruit, somewhat resembling a small peach, of the tree Prunus armeniaca.;yellow COLOR,rosy COLOR,fruit CONTEXT,small SIZE
+A juicy, soft fruit, resembling a small peach, of an orange yellow color.;soft HARDNESS,fruit CONTEXT,small SIZE,orange COLOR,yellow COLOR
+The avocado ("Persea americana"), a tree likely originating from south-central Mexico, is classified as a member of the flowering plant family Lauraceae.;avocado PIVOT
+The fruit of the plant, also called an avocado (or avocado pear or alligator pear), is botanically a large berry containing a single large seed.;fruit CONTEXT,large SIZE
+The large, usually yellowish-green or black, pulpy fruit of the avocado tree.;large SIZE,yellowish COLOR,green COLOR,black COLOR,fruit CONTEXT
+a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed;fruit CONTEXT,green COLOR,blackish COLOR,large SIZE,seed COMPONENT
+Avocados are pear-shaped vegetables, with hard skins and large stones, which are usually eaten raw.;Avocados PIVOT,vegetables CONTEXT,hard HARDNESS,skins COMPONENT,large SIZE,stones COMPONENT,eaten TASK
+a fruit with green or black skin, a very large seed in the middle, and pale green flesh that does not taste sweet.;fruit CONTEXT,green COLOR,black COLOR,large SIZE,seed COMPONENT
+a large, usually pear-shaped fruit having green to blackish skin, a single large seed, and soft, light-green pulp, borne by the tropical American tree Persea americana and its variety P. adrymifolia, often eaten raw, especially in salads.;large SIZE,fruit CONTEXT,green COLOR,blackish COLOR,skin COMPONENT,eaten TASK
+A tropical American tree (Persea americana) having oval or pear-shaped fruit with leathery skin, yellowish-green flesh, and a large seed.;oval GEOMETRY,fruit CONTEXT,leathery TEXTURE,skin COMPONENT,large SIZE,seed COMPONENT
+A pear-shaped fruit with a rough leathery skin, smooth oily edible flesh, and a large stone.;fruit CONTEXT,rough TEXTURE,leathery TEXTURE,skin COMPONENT,large SIZE,stone COMPONENT
+A ballpoint pen, also known as a biro (British English), ball pen (Philippine English), or dot pen (Nepali) is a pen that dispenses ink (usually in paste form) over a metal ball at its point, i.e. over a "ball point".;ballpoint CONTEXT,pen PIVOT,metal MATERIAL,ball COMPONENT
+The metal commonly used is steel, brass, or tungsten carbide.;metal MATERIAL,steel MATERIAL,brass MATERIAL
+The design was conceived and developed as a cleaner and more reliable alternative to dip pens and fountain pens, and it is now the world's most-used writing instrument, millions are manufactured and sold daily.;writing TASK,instrument CONTEXT
+A pen, similar in size and shape to a pencil, having an internal chamber filled with a viscous, quick-drying ink that is dispensed at the tip during use by the rolling action of a metal sphere (around 0.7 mm to 1 mm in diameter).;pen PIVOT,tip COMPONENT,metal MATERIAL,sphere COMPONENT
+a pen having, instead of a point, a small ball bearing that picks up its ink by rolling against an interior ink reservoir.;pen PIVOT,small SIZE,ball COMPONENT
+a pen having as the writing point a small rotating metal ball that inks itself by contact with an inner magazine.;pen PIVOT,writing TASK,small SIZE,metal MATERIAL,ball COMPONENT
+a pen with a very small ball at the end from which ink flows as you write;pen PIVOT,small SIZE,ball COMPONENT,write TASK
+A pen with a tiny ball as its writing point.;pen PIVOT,tiny SIZE,ball COMPONENT,writing TASK
+A banana is an elongated, edible fruit botanically a berry produced by several kinds of large herbaceous flowering plants in the genus "Musa".;banana PIVOT,elongated GEOMETRY,fruit CONTEXT
+In some countries, bananas used for cooking may be called "plantains", distinguishing them from dessert bananas.;bananas PIVOT
+The fruit is variable in size, color, and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind, which may be green, yellow, red, purple, or brown when ripe.;fruit CONTEXT,elongated GEOMETRY,curved GEOMETRY,green COLOR,yellow COLOR,red COLOR,purple COLOR,brown COLOR
+An elongated curved tropical fruit that grows in bunches and has a creamy flesh and a smooth skin.;elongated GEOMETRY,curved GEOMETRY,fruit CONTEXT,smooth TEXTURE,skin COMPONENT
+Bananas are long curved fruit with yellow skins.;Bananas PIVOT,long SIZE,curved GEOMETRY,fruit CONTEXT,yellow COLOR,skins COMPONENT
+an elongated usually tapering tropical fruit with soft pulpy flesh enclosed in a soft usually yellow rind.;elongated GEOMETRY,fruit CONTEXT,soft HARDNESS,yellow COLOR
+a long curved fruit with a yellow skin;long SIZE,curved GEOMETRY,fruit CONTEXT,yellow COLOR,skin COMPONENT
+The elongated, edible fruit of these plants, having a thick yellowish to reddish skin and whitish, pulpy flesh.;elongated GEOMETRY,fruit CONTEXT,thick GEOMETRY,yellowish COLOR,reddish COLOR,skin COMPONENT
+A long curved fruit which grows in clusters and has soft pulpy flesh and yellow skin when ripe.;long SIZE,curved GEOMETRY,fruit CONTEXT,yellow COLOR,skin COMPONENT
+A banknote (often known as a bill (in the US and Canada), paper money, or simply a note) is a type of negotiable promissory note, made by a bank or other licensed authority, payable to the bearer on demand.;banknote PIVOT,bill CONTEXT,paper CONTEXT,payable TASK
+a promissory note issued by a bank payable to bearer on demand without interest and acceptable as money.;payable TASK
+Banknotes are pieces of paper money.;Banknotes PIVOT,pieces CONTEXT,paper CONTEXT
+A barrette (American English), also known as a hair clasp (British English), or a hair clip, is a clasp for holding hair in place.;barrette PIVOT,clasp CONTEXT,clip CONTEXT,holding TASK
+They are often made from metal or plastic and sometimes feature decorative fabric.;metal MATERIAL,plastic MATERIAL,fabric MATERIAL
+In one type of barrette, a clasp is used to secure the barrette in place, the clasp opens when the two metal pieces at either side are pressed together.;barrette PIVOT,clasp CONTEXT,metal MATERIAL,pressed TASK
+a pin for holding women's hair in place.;holding TASK
+A barrette is a small metal or plastic device that a woman uses to hold her hair in position.;barrette PIVOT,small SIZE,metal MATERIAL,plastic MATERIAL,hold TASK
+a clip or bar for holding hair in place;clip CONTEXT,holding TASK
+a clasp for holding a woman's or girl's hair in place.;clasp CONTEXT,holding TASK
+A small clasp for holding the hair in place.;small SIZE,clasp CONTEXT,holding TASK
+Batteries are small devices that provide the power for electrical items such as torches and children's toys.;Batteries PIVOT,small SIZE
+A bead is a small, decorative object that is formed in a variety of shapes and sizes of a material such as stone, bone, shell, glass, plastic, wood or pearl and with a small hole for threading or stringing.;bead PIVOT,small SIZE,stone MATERIAL,shell COMPONENT,glass MATERIAL,plastic MATERIAL,wood MATERIAL,threading TASK,stringing TASK
+Beads can be woven together with specialized thread, strung onto thread or soft, flexible wire, or adhered to a surface (e.g. fabric, clay).;Beads PIVOT
+Beads are small pieces of coloured glass, wood, or plastic with a hole through the middle.;Beads PIVOT,small SIZE,pieces CONTEXT,glass MATERIAL,wood MATERIAL,plastic MATERIAL
+a small usually round piece of plastic, glass, metal etc with a hole through it, that you put on a string or chain with other beads and wear as jewellery;small SIZE,round GEOMETRY,piece CONTEXT,plastic MATERIAL,glass MATERIAL,metal MATERIAL
+A small, often round piece of material, such as glass, plastic, or wood, that is pierced for stringing or threading.;small SIZE,round GEOMETRY,piece CONTEXT,glass MATERIAL,plastic MATERIAL,wood MATERIAL,stringing TASK,threading TASK
+A small piece of glass, stone, or similar material, typically rounded and perforated for threading with others as a necklace or rosary or for sewing onto fabric.;small SIZE,piece CONTEXT,glass MATERIAL,stone MATERIAL,rounded GEOMETRY,threading TASK,sewing TASK
+A beer bottle is a bottle designed as a container for beer.;beer CONTEXT,bottle PIVOT,container CONTEXT
+A bottle, commonly made of brown or green glass, designed as a container for beer.;bottle PIVOT,brown COLOR,green COLOR,container CONTEXT
+A billiard ball is a small, hard ball used in cue sports, such as carom billiards, pool, and snooker.;billiard CONTEXT,ball PIVOT,small SIZE,hard HARDNESS
+a hard ball used in billiards;hard HARDNESS,ball PIVOT
+one of the balls used in playing billiards;balls PIVOT,playing TASK
+A book is a medium for recording information in the form of writing or images, typically composed of many pages (made of papyrus, parchment, vellum, or paper) bound together and protected by a cover.;book PIVOT,writing TASK,images COMPONENT,pages COMPONENT,paper MATERIAL
+A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.;sheets CONTEXT,paper MATERIAL,written TASK,pictures COMPONENT
+She opened the book to page 37 and began to read aloud.;opened TASK,book PIVOT,read TASK
+a written work or composition that has been published (printed on pages bound together);written TASK,pages COMPONENT
+A book is a number of pieces of paper, usually with words printed on them, which are fastened together and fixed inside a cover of stronger paper or cardboard.;book PIVOT,paper MATERIAL
+a set of written sheets of skin or paper or tablets of wood or ivory;written TASK,sheets CONTEXT,paper MATERIAL
+a written work that is published, either as printed pages inside a cover or electronically;written TASK,pages COMPONENT
+A written or printed work consisting of pages glued or sewn together along one side and bound in covers.;written TASK,pages COMPONENT
+A bookmark is a thin marking tool, commonly made of card, leather, or fabric, used to keep track of a reader's progress in a book and allow the reader to easily return to where the previous reading session ended.;bookmark PIVOT,thin GEOMETRY,marking TASK,tool CONTEXT,card MATERIAL,leather MATERIAL,fabric MATERIAL
+Alternate materials for bookmarks are paper, metals like silver and brass, silk, wood, cord (sewing), and plastic.;bookmarks PIVOT,paper MATERIAL,metals MATERIAL,silver MATERIAL,brass MATERIAL,wood MATERIAL,cord MATERIAL,plastic MATERIAL
+A strip of material used to mark a place in a book.;strip CONTEXT,mark TASK
+A bookmark is a narrow piece of card or leather that you put between the pages of a book so that you can find a particular page easily.;bookmark PIVOT,narrow GEOMETRY,piece CONTEXT,card MATERIAL,leather MATERIAL,put TASK
+A strip of material, as of ribbon or leather, or a metal clamp, that is placed between the pages of a book to mark the reader's place.;strip CONTEXT,ribbon MATERIAL,leather MATERIAL,mark TASK
+A strip of leather, card, or other material, used to mark one's place in a book.;strip CONTEXT,leather MATERIAL,card MATERIAL,mark TASK
+A bottle is a narrow-necked container made of an impermeable material (clay, glass, plastic, aluminium etc.).;bottle PIVOT,narrow GEOMETRY,necked COMPONENT,container CONTEXT,clay MATERIAL,glass MATERIAL,plastic MATERIAL,aluminium MATERIAL 
+A container, typically made of glass or plastic and having a tapered neck, used primarily for holding liquids.;container CONTEXT,glass MATERIAL,plastic MATERIAL,tapered GEOMETRY,neck COMPONENT,holding TASK
+a glass or plastic vessel used for storing drinks or other liquids, typically cylindrical without handles and with a narrow neck that can be plugged or capped.;vessel CONTEXT,glass MATERIAL,plastic MATERIAL,cylindrical GEOMETRY,narrow GEOMETRY,neck COMPONENT
+A bottle is a glass or plastic container in which drinks and other liquids are kept.;bottle PIVOT,glass MATERIAL,plastic MATERIAL,container CONTEXT
+Bottles are usually round with straight sides and a narrow top.;Bottles PIVOT,round GEOMETRY,straight GEOMETRY,sides COMPONENT,narrow GEOMETRY,top COMPONENT
+a rigid or semirigid container typically of glass or plastic having a comparatively narrow neck or mouth and usually no handle.;rigid HARDNESS,semirigid HARDNESS,glass MATERIAL,plastic MATERIAL,narrow GEOMETRY,neck COMPONENT
+a glass or plastic container for liquids, usually with a narrow part at the top that is called the neck.;glass MATERIAL,plastic MATERIAL,narrow GEOMETRY,neck COMPONENT
+a portable container for holding liquids, characteristically having a neck and mouth and made of glass or plastic.;container CONTEXT,holding TASK,neck COMPONENT,glass MATERIAL,plastic MATERIAL
+A receptacle having a narrow neck, usually no handles, and a mouth that can be plugged, corked, or capped.;narrow GEOMETRY,neck COMPONENT
+A glass or plastic container with a narrow neck, used for storing drinks or other liquids.;glass MATERIAL,plastic MATERIAL,narrow GEOMETRY,neck COMPONENT
+A bowl is a round dish or container typically used to prepare and serve food.;bowl PIVOT,round GEOMETRY,dish CONTEXT,container CONTEXT,prepare TASK,serve TASK
+The exterior of a bowl is most often round but can be of any shape, including rectangular.;bowl PIVOT,round GEOMETRY,rectangular GEOMETRY
+A roughly hemispherical container used to hold, mix or present food, such as salad, fruit or soup, or other items.;hemispherical GEOMETRY,container CONTEXT,hold TASK,mix TASK,present TASK
+a round vessel that is open at the top, used chiefly for holding food or liquids.;round GEOMETRY,vessel CONTEXT,holding TASK
+A bowl is a round container with a wide uncovered top.;bowl PIVOT,round GEOMETRY,container CONTEXT,wide GEOMETRY,top COMPONENT
+Some kinds of bowl are used, for example, for serving or eating food from, or in cooking, while other larger kinds are used for washing or cleaning.;bowl PIVOT,serving TASK,cooking TASK,washing TASK,cleaning TASK
+a concave usually nearly hemispherical vessel.;concave GEOMETRY,hemispherical GEOMETRY,vessel CONTEXT
+a rounded container that is usually larger than a cup.;rounded GEOMETRY,container CONTEXT
+a round container used for eating, serving, or preparing food.;round GEOMETRY,container CONTEXT,eating TASK,serving TASK,preparing TASK
+a rather deep, round dish or basin, used chiefly for holding liquids, food, etc.;round GEOMETRY,dish CONTEXT,holding TASK
+A hemispherical vessel, wider than it is deep, used for holding food or fluids.;hemispherical GEOMETRY,vessel CONTEXT,holding TASK
+A round, deep dish or basin used for food or liquid.;round GEOMETRY,dish CONTEXT
+A box (plural: boxes) is a container used for the storage or transportation of its contents.;box PIVOT,container CONTEXT
+Most boxes have flat, parallel, rectangular sides.;boxes PIVOT,flat GEOMETRY,rectangular GEOMETRY,sides COMPONENT
+Boxes can be very small (like a matchbox) or very large (like a shipping box for furniture), and can be used for a variety of purposes from functional to decorative.;Boxes PIVOT,small SIZE,large SIZE
+a (usually rectangular) container, may have a lid.;rectangular GEOMETRY,container CONTEXT,lid COMPONENT
+A box is a square or rectangular container with hard or stiff sides.;box PIVOT,square GEOMETRY,rectangular GEOMETRY,container CONTEXT,hard HARDNESS,stiff HARDNESS,sides COMPONENT
+a rigid typically rectangular container with or without a cover.;rigid TEXTURE,rectangular GEOMETRY,container CONTEXT
+a container with straight sides, a flat base, and sometimes a lid.;container CONTEXT,straight GEOMETRY,sides COMPONENT,flat GEOMETRY,base COMPONENT,lid COMPONENT
+a container, case, or receptacle, usually rectangular, of wood, metal, cardboard, etc., and often with a lid or removable cover.;container CONTEXT,rectangular GEOMETRY,wood MATERIAL,metal MATERIAL,cardboard MATERIAL,lid COMPONENT
+A container with a flat base and sides, typically square or rectangular and having a lid.;container CONTEXT,flat GEOMETRY,base COMPONENT,sides COMPONENT,square GEOMETRY,rectangular GEOMETRY,lid COMPONENT
+A bun is a small, sometimes sweet, bread-based item or roll.;bun PIVOT,small SIZE
+A small bread roll, often sweetened or spiced.;small SIZE,bread CONTEXT
+small rounded bread either plain or sweet;small SIZE,rounded GEOMETRY,bread CONTEXT
+Buns are small bread rolls.;Buns PIVOT,small SIZE,bread CONTEXT
+a sweet or plain small bread;small SIZE,bread CONTEXT
+a small round cake, especially with a sweet sticky surface;small SIZE,round GEOMETRY,cake CONTEXT,sticky TEXTURE
+An unsweetened round or oblong roll, used especially to hold a hamburger patty or a hot dog.;round GEOMETRY,oblong GEOMETRY
+A small sweetened roll, often spiced or containing dried fruit.;small SIZE
+A small cake, typically containing dried fruit.;small SIZE,cake CONTEXT
+A candle is an ignitable wick embedded in wax, or another flammable solid substance such as tallow, that provides light, and in some cases, a fragrance.;candle PIVOT,wax MATERIAL,solid HARDNESS,tallow MATERIAL
+A light source consisting of a wick embedded in a solid, flammable substance such as wax, tallow, or paraffin.;solid HARDNESS,wax MATERIAL,tallow MATERIAL
+stick of wax with a wick in the middle.;stick CONTEXT,wax MATERIAL
+A candle is a stick of hard wax with a piece of string called a wick through the middle.;candle PIVOT,stick CONTEXT,hard HARDNESS,wax MATERIAL
+a usually molded or dipped mass of wax or tallow containing a wick that may be burned (as to give light, heat, or scent or for celebration or votive purposes).;wax MATERIAL,tallow MATERIAL
+a stick of wax with a string in it called a wick that you burn to give light.;stick GEOMETRY,wax MATERIAL
+a long, usually slender piece of tallow or wax with an embedded wick that is burned to give light.;long SIZE,slender GEOMETRY,piece CONTEXT,tallow MATERIAL,wax MATERIAL
+A solid, usually cylindrical mass of tallow, wax, or other fatty substance with an axially embedded wick that is burned to provide light.;solid HARDNESS,cylindrical GEOMETRY,tallow MATERIAL,wax MATERIAL,fatty TEXTURE
+A cylinder or block of wax or tallow with a central wick which is lit to produce light as it burns.;cylinder GEOMETRY,block GEOMETRY,wax MATERIAL,tallow MATERIAL
+A chalice (from Latin 'mug', borrowed from Ancient Greek () 'cup') or goblet is a footed cup intended to hold a drink.;chalice PIVOT,goblet CONTEXT,cup CONTEXT,hold TASK
+In religious practice, a chalice is often used for drinking during a ceremony or may carry a certain symbolic meaning.;chalice PIVOT,drinking TASK
+A large drinking cup, often having a stem and base and used especially for formal occasions and religious ceremonies.;large SIZE,drinking TASK,cup PIVOT,stem COMPONENT
+A chalice is a large gold or silver cup with a stem. Chalices are used to hold wine in the Christian service of Holy Communion.;chalice PIVOT,large SIZE,gold COLOR,silver COLOR,cup CONTEXT,stem COMPONENT,hold TASK
+a large cup for wine, especially one used during the Christian ceremony of Holy Communion;large SIZE,cup PIVOT
+Chalk is a soft, white, porous, sedimentary carbonate rock.;Chalk PIVOT,soft HARDNESS,white COLOR,carbonate CONTEXT,rock MATERIAL
+A soft, white, powdery limestone.;soft HARDNESS,white COLOR,powdery TEXTURE,limestone MATERIAL
+a soft whitish calcite;soft HARDNESS,whitish COLOR
+Chalk is a type of soft white rock. You can use small pieces of it for writing or drawing with.;Chalk PIVOT,soft HARDNESS,white COLOR,rock MATERIAL,small SIZE,pieces CONTEXT,writing TASK,drawing TASK
+a soft white, gray, or buff limestone composed chiefly of the shells of foraminifers;soft HARDNESS,white COLOR,gray COLOR,limestone MATERIAL
+a type of soft white stone;soft HARDNESS,white COLOR,stone MATERIAL
+a soft, white, powdery limestone consisting chiefly of fossil shells of foraminifers.;soft HARDNESS,white COLOR,powdery TEXTURE,limestone MATERIAL
+A white soft earthy limestone (calcium carbonate) formed from the skeletal remains of sea creatures.;white COLOR,soft HARDNESS,limestone MATERIAL
+A chess piece, or chessman, is any of the six different types of movable objects used on a chessboard to play the game of chess.;chess CONTEXT,piece PIVOT,play TASK
+Any of the 16 white and 16 black pieces used in playing the game of chess.;white COLOR,black COLOR,playing TASK,pieces CONTEXT,chess CONTEXT
+A chocolate bar (Commonwealth English) or candy bar (some dialects of American English) is a confection containing chocolate, which may also contain layerings or mixtures that include nuts, fruit, caramel, nougat, and wafers.;chocolate CONTEXT,bar PIVOT,candy CONTEXT
+A bar of chocolate, either solid or with a filling such as nuts or caramel.;bar PIVOT,chocolate CONTEXT,solid HARDNESS
+A flattish rectangular block of chocolate manufactured as an item of confectionery, usually sold individually wrapped (also) any similarly-shaped item of confectionery that is coated or flavoured with chocolate.;flattish GEOMETRY,rectangular GEOMETRY,block GEOMETRY
+A cigarette is a narrow cylinder containing burnable material, typically tobacco, that is rolled into thin paper for smoking.;cigarette PIVOT,narrow GEOMETRY,cylinder GEOMETRY,thin GEOMETRY,smoking TASK
+Tobacco or other substances, in a thin roll wrapped with paper, intended to be smoked.;thin GEOMETRY,roll CONTEXT,paper MATERIAL,smoked TASK
+finely ground tobacco wrapped in paper, for smoking;tobacco PIVOT,paper MATERIAL,smoking TASK
+Cigarettes are small tubes of paper containing tobacco which people smoke.;Cigarettes PIVOT,small SIZE,tubes CONTEXT,smoke TASK
+a slender roll of cut tobacco enclosed in paper and meant to be smoked.;slender GEOMETRY,roll CONTEXT,tobacco PIVOT,paper MATERIAL,smoked TASK
+a narrow paper tube containing tobacco that people smoke.;narrow GEOMETRY,paper MATERIAL,tube CONTEXT,tobacco PIVOT,smoke TASK
+a cylindrical roll of finely cut tobacco cured for smoking, considerably smaller than most cigars and usually wrapped in thin white paper.;cylindrical GEOMETRY,roll CONTEXT,tobacco PIVOT,smoking TASK,thin GEOMETRY,white COLOR,paper MATERIAL
+A small roll of finely cut tobacco for smoking, enclosed in a wrapper of thin paper.;small SIZE,roll CONTEXT,tobacco PIVOT,smoking TASK,thin GEOMETRY,paper MATERIAL
+A thin cylinder of finely cut tobacco rolled in paper for smoking.;thin GEOMETRY,cylinder GEOMETRY,tobacco PIVOT,paper MATERIAL,smoking TASK
+A clementine ("Citrus clementina") is a tangor, a citrus fruit hybrid between a willowleaf mandarin orange ("C." "deliciosa") and a sweet orange ("C. sinensis"), named for its late 19th-century discoverer.;clementina PIVOT,fruit CONTEXT
+The exterior is a deep orange colour with a smooth, glossy appearance.;orange COLOR,smooth TEXTURE,glossy TEXTURE
+A type of small, sweet orange, the result of a cross between a tangerine and Seville orange.;small SIZE,orange CONTEXT
+A clementine is a fruit that looks like a small orange.;clementine PIVOT,fruit CONTEXT,small SIZE,orange CONTEXT
+a small nearly seedless citrus fruit that is probably a hybrid between a tangerine and an orange;small SIZE,fruit CONTEXT
+a fruit similar to a small orange;fruit CONTEXT,small SIZE,orange CONTEXT
+a small, sweet variety of tangerine with orange-red skin.;small SIZE,orange COLOR,red COLOR
+A tangerine of a deep orange-red North African variety which is grown around the Mediterranean and in South Africa.;tangerine PIVOT,orange COLOR,red COLOR
+A coin is a small, flat, (usually, depending on the country or value) round piece of metal or plastic used primarily as a medium of exchange or legal tender.;coin PIVOT,small SIZE,flat GEOMETRY,round GEOMETRY,piece CONTEXT,metal MATERIAL,plastic MATERIAL
+a flat metal piece (usually a disc) used as money;flat GEOMETRY,metal MATERIAL,piece CONTEXT,disc CONTEXT
+A coin is a small piece of metal which is used as money.;coin PIVOT,small SIZE,piece CONTEXT,metal MATERIAL
+a flat round piece of metal with special designs on it, used as money.;flat GEOMETRY,round GEOMETRY,piece CONTEXT,metal MATERIAL
+A small piece of metal, usually flat and circular, authorized by a government for use as money.;small SIZE,piece CONTEXT,metal MATERIAL,flat GEOMETRY,circular GEOMETRY
+A flat disc or piece of metal with an official stamp, used as money.;flat GEOMETRY,disc CONTEXT,piece CONTEXT,metal MATERIAL
+A comb is a tool consisting of a shaft that holds a row of teeth for pulling through the hair to clean, untangle, or style it.;comb PIVOT,tool CONTEXT,untangle TASK,style TASK
+A toothed implement for grooming the hair or (formerly) for keeping it in place.;implement CONTEXT,grooming TASK
+a flat device with narrow pointed teeth on one edge, disentangles or arranges hair.;flat GEOMETRY,disentangles TASK,arranges TASK
+A comb is a flat piece of plastic or metal with narrow pointed teeth along one side, which you use to tidy your hair.;comb PIVOT,flat GEOMETRY,piece CONTEXT,plastic MATERIAL,metal MATERIAL,tidy TASK
+a toothed instrument used especially for adjusting, cleaning, or confining hair;instrument CONTEXT,adjusting TASK,cleaning TASK,confining TASK
+a toothed strip of plastic, hard rubber, bone, wood, or metal, used for arranging the hair, untangling it, or holding it in place.;strip CONTEXT,plastic MATERIAL,rubber MATERIAL,bone MATERIAL,wood MATERIAL,metal MATERIAL,arranging TASK,untangling TASK,holding TASK
+A thin toothed strip, as of plastic, used to smooth, arrange, or fasten the hair.;thin GEOMETRY,strip CONTEXT,plastic MATERIAL,arrange TASK,fasten TASK
+A strip of plastic, metal, or wood with a row of narrow teeth, used for untangling or arranging the hair.;strip CONTEXT,plastic MATERIAL,metal MATERIAL,wood MATERIAL,untangling TASK,arranging TASK
+Compact discs are small shiny discs that contain music or computer information.;Compact CONTEXT,discs PIVOT,small SIZE
+A small optical disc on which data such as music, text, or graphic images is digitally encoded.;small SIZE,disc PIVOT
+A small plastic disc on which music or other digital information is stored in the form of a pattern of metal-coated pits from which it can be read using laser light reflected off the disc.;small SIZE,plastic MATERIAL,disc PIVOT
+A credit card is a payment card issued to users (cardholders) to enable the cardholder to pay a merchant for goods and services based on the cardholder's accrued debt (i.e., promise to the card issuer to pay them for the amounts plus the other agreed charges).;credit CONTEXT,card PIVOT,pay TASK
+A plastic card, usually with a magnetic strip or an embedded microchip, connected to a credit account and used to buy goods or services.;plastic MATERIAL,card PIVOT
+A credit card is a plastic card that you use to buy goods on credit.;credit CONTEXT,card PIVOT,plastic MATERIAL
+a small plastic card that you use to buy things now and pay for them later.;small SIZE,plastic MATERIAL,card PIVOT,pay TASK
+A plastic card having a magnetic strip, issued by a bank or business authorizing the holder to buy goods or services on credit.;plastic MATERIAL,card PIVOT
+A small plastic card issued by a bank, building society, etc., allowing the holder to purchase goods or services on credit.;small SIZE,plastic MATERIAL,card PIVOT
+The cucumber originates from South Asia, but now grows on most continents, as many different types of cucumber are traded on the global market.;cucumber PIVOT
+a melon vine of the genus Cucumis, cultivated from earliest times for its cylindrical green fruit.;cylindrical GEOMETRY,green COLOR,fruit CONTEXT
+A cucumber is a long thin vegetable with a hard green skin and wet transparent flesh.;cucumber PIVOT,long SIZE,thin GEOMETRY,vegetable CONTEXT,hard HARDNESS,green COLOR
+a long thin vegetable that has a dark green skin and is white inside.;long SIZE,thin GEOMETRY,vegetable CONTEXT,green COLOR,skin COMPONENT
+A tendril-bearing, climbing or sprawling annual plant (Cucumis sativus) widely cultivated for its edible cylindrical fruit that has a green rind and crisp white flesh.;cylindrical GEOMETRY,green COLOR,fruit CONTEXT
+A long, green-skinned fruit with watery flesh, usually eaten raw in salads or pickled.;long SIZE,green COLOR,fruit CONTEXT,eaten TASK
+A cup is an open-top container used to hold liquids for pouring or drinking.;cup PIVOT,container CONTEXT,hold TASK,pouring TASK,drinking TASK
+while mainly used for drinking, it also can be used to store solids for pouring;drinking TASK,pouring TASK
+Cups may be made of glass, metal, china, clay, wood, stone, polystyrene, plastic, aluminium or other materials, and are usually fixed with a stem, handles, or other adornments.;Cups PIVOT,glass MATERIAL,metal MATERIAL,china MATERIAL,clay MATERIAL,wood MATERIAL,stone MATERIAL,polystyrene MATERIAL,plastic MATERIAL,aluminium MATERIAL,stem COMPONENT,handles COMPONENT
+Cups are used for quenching thirst across a wide range of cultures and social classes, and different styles of cups may be used for different liquids or in different situations.;Cups PIVOT,used TASK
+A concave vessel for drinking from, usually made of opaque material (as opposed to a glass) and with a handle.;concave GEOMETRY,vessel CONTEXT,handle COMPONENT
+a small open container usually used for drinking, usually has a handle;small SIZE,container CONTEXT,drinking TASK,handle COMPONENT
+A cup is a small round container that you drink from.;cup PIVOT,small SIZE,round GEOMETRY,container CONTEXT,drink TASK
+Cups usually have handles and are made from china or plastic.;Cups PIVOT,china MATERIAL,plastic MATERIAL,handles COMPONENT
+an open usually bowl-shaped drinking vessel;drinking TASK,vessel CONTEXT
+a small round container for a drink, usually with a handle;small SIZE,round GEOMETRY,container CONTEXT,handle COMPONENT
+a small, open container made of china, glass, metal, etc., usually having a handle and used chiefly as a receptable from which to drink tea, soup, etc.;small SIZE,container CONTEXT,china MATERIAL,glass MATERIAL,metal MATERIAL,handle COMPONENT,drink TASK
+A small open container, usually with a flat bottom and a handle, used for drinking.;small SIZE,container CONTEXT,flat GEOMETRY,handle COMPONENT,drinking TASK
+A small bowl-shaped container for drinking from, typically having a handle.;small SIZE,container CONTEXT,handle COMPONENT
+Dice (singular die or dice) are small, throwable objects with marked sides that can rest in multiple positions.;Dice PIVOT,small SIZE,throwable TASK
+a small cube with 1 to 6 spots on the six faces, used in gambling to generate random numbers;small SIZE,cube GEOMETRY
+A dice is a small cube which has between one and six spots or numbers on its sides, and which is used in games to provide random numbers.;dice PIVOT,small SIZE,cube GEOMETRY
+a small block of wood or plastic with six sides marked with spots, that you roll or throw to play a game;small SIZE,block GEOMETRY,wood MATERIAL,plastic MATERIAL,roll TASK,throw TASK
+small cubes of plastic, ivory, bone, or wood, marked on each side with one to six spots, usually used in pairs in games of chance or in gambling.;small SIZE,cubes GEOMETRY,plastic MATERIAL,ivory MATERIAL,bone MATERIAL,wood MATERIAL
+A small cube with each side having a different number of spots on it, ranging from one to six, thrown and used in gambling and other games involving chance.;small SIZE,cube GEOMETRY,thrown TASK
+a small ring-shaped friedcake;small SIZE,ring GEOMETRY,friedcake PIVOT
+a small usually ring-shaped piece of sweet fried dough;small SIZE,ring GEOMETRY,piece CONTEXT,dough PIVOT
+A small fried cake of sweetened dough, typically in the shape of a ball or ring.;small SIZE,cake PIVOT,ball GEOMETRY,ring GEOMETRY
+An earring is a piece of jewelry attached to the ear via a piercing in the earlobe or another external part of the ear (except in the case of clip earrings, which clip onto the lobe).;earring PIVOT,piece CONTEXT,jewelry CONTEXT,attached TASK,clip TASK
+Earrings have been worn by people in different civilizations and historic periods, often with cultural significance.;Earrings PIVOT,worn TASK
+A piece of jewelry worn on the ear.;piece CONTEXT,jewelry CONTEXT,worn TASK
+jewelry to ornament the ear, usually clipped to the earlobe or fastened through a hole in the lobe.;jewelry CONTEXT,clipped TASK,fastened TASK
+Earrings are pieces of jewellery which you attach to your ears.;Earrings PIVOT,pieces CONTEXT,jewellery CONTEXT,attach TASK
+a piece of jewellery that you wear on your ear;piece CONTEXT,jewellery CONTEXT,wear TASK
+An egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches.;egg PIVOT,vessel CONTEXT
+An egg results from fertilization of an egg cell.;egg PIVOT
+An approximately spherical or ellipsoidal body produced by birds, reptiles, insects and other animals, housing the embryo during its development.;spherical GEOMETRY,ellipsoidal GEOMETRY
+An egg is an oval object that is produced by a female bird and which contains a baby bird.;egg PIVOT,oval GEOMETRY
+the hard-shelled reproductive body produced by a bird and especially by the common domestic chicken.;hard HARDNESS
+the round object with a shell that a female bird produces and a baby bird develops in.;round GEOMETRY,shell COMPONENT
+the roundish reproductive body produced by the female of certain animals, as birds and most reptiles, consisting of an ovum and its envelope of albumen, jelly, membranes, egg case, or shell, according to species.;roundish GEOMETRY
+The round or oval female reproductive body of various animals, including birds, reptiles, amphibians, fishes, and insects, consisting usually of an embryo surrounded by nutrient material and a protective covering.;round GEOMETRY,oval GEOMETRY
+The oval, thin-shelled reproductive body of a bird, especially that of a hen, used as food.;oval GEOMETRY,thin GEOMETRY,shelled COMPONENT
+An oval or round object laid by a female bird, reptile, fish, or invertebrate, usually containing a developing embryo.;oval GEOMETRY,round GEOMETRY
+An envelope is a common packaging item, usually made of thin, flat material.;envelope PIVOT,thin GEOMETRY,flat GEOMETRY
+It is designed to contain a flat object, such as a letter or card.;flat GEOMETRY
+A paper or cardboard wrapper used to enclose small, flat items, especially letters, for mailing.;paper MATERIAL,cardboard MATERIAL,small SIZE,flat GEOMETRY
+a flat (usually rectangular) container for a letter, thin package, etc.;flat GEOMETRY,rectangular GEOMETRY,container CONTEXT,thin GEOMETRY
+An envelope is the rectangular paper cover in which you send a letter to someone through the post.;envelope PIVOT,rectangular GEOMETRY,paper MATERIAL
+a flat usually paper container (as for a letter).;flat GEOMETRY,paper MATERIAL,container CONTEXT
+a flat paper case for a letter or document, with a part that you stick down to close it before you write an address on it and send it through the post.;flat GEOMETRY,paper MATERIAL,case CONTEXT,write TASK
+a flat paper container, as for a letter or thin package, usually having a gummed flap or other means of closure.;flat GEOMETRY,paper MATERIAL,container CONTEXT,thin GEOMETRY
+A flat paper container, especially for a letter, usually having a gummed flap.;flat GEOMETRY,paper MATERIAL,container CONTEXT
+A flat paper container with a sealable flap, used to enclose a letter or document.;flat GEOMETRY,paper MATERIAL,container CONTEXT
+A flashlight, (US) or torch (UK, Australia) is a portable hand-held electric light.;flashlight PIVOT,torch CONTEXT
+a small portable battery-powered electric lamp;small SIZE,lamp PIVOT
+A flashlight is a small electric light which gets its power from batteries and which you can carry in your hand.;flashlight PIVOT,small SIZE,carry TASK
+a small battery-operated portable electric light.;small SIZE
+a small, portable electric lamp powered by dry batteries, LEDs, or a tiny generator.;small SIZE,lamp PIVOT
+A small portable lamp usually powered by batteries.;small SIZE,lamp PIVOT
+A narrow-necked vessel of metal or glass, used for various purposes, as of sheet metal, to carry gunpowder in, or of wrought iron, to contain quicksilver, or of glass, to heat water in, etc.;narrow GEOMETRY,necked COMPONENT,vessel CONTEXT,metal MATERIAL,glass MATERIAL
+bottle that has a narrow neck;bottle PIVOT,narrow GEOMETRY,neck COMPONENT
+A flask is a bottle which you use for carrying drinks around with you.;flask PIVOT,bottle CONTEXT,carrying TASK
+a bottle, usually of glass, having a rounded body and a narrow neck, used especially in laboratory experimentation.;bottle PIVOT,glass MATERIAL,rounded GEOMETRY,narrow GEOMETRY,neck COMPONENT
+A small container, such as a bottle, having a narrow neck and usually a cap, especially: A flat, relatively thin container for liquor.;small SIZE,container CONTEXT,narrow GEOMETRY,neck COMPONENT,cap COMPONENT,flat GEOMETRY,thin GEOMETRY
+A container or case for carrying gunpowder or shot.;container CONTEXT,carrying TASK
+A vial or round long-necked vessel for laboratory use.;round GEOMETRY,long SIZE,necked COMPONENT,vessel CONTEXT
+In cutlery or kitchenware, a fork (from 'pitchfork') is a utensil, now usually made of metal, whose long handle terminates in a head that branches into several narrow and often slightly curved tines with which one can spear foods either to hold them to cut with a knife or to lift them to the mouth.;fork PIVOT,utensil CONTEXT,metal MATERIAL,long SIZE,handle COMPONENT,head COMPONENT,narrow GEOMETRY,curved GEOMETRY,hold TASK,cut TASK,lift TASK
+A pronged tool having a long straight handle, used for digging, lifting, throwing etc.;tool CONTEXT,long SIZE,straight GEOMETRY,handle COMPONENT,digging TASK,lifting TASK,throwing TASK
+cutlery used for serving and eating food.;eating TASK
+A fork is a tool used for eating food which has a row of three or four long metal points at the end.;fork PIVOT,tool CONTEXT,eating TASK,metal TASK
+an implement with two or more prongs used especially for taking up (as in eating), pitching, or digging.;implement CONTEXT,eating TASK,pitching TASK,digging TASK
+a metal or plastic object used for eating, consisting of a handle with three or four sharp points on the end.;metal MATERIAL,plastic MATERIAL,eating TASK,handle COMPONENT
+an instrument having two or more prongs or tines, for holding, lifting, etc., as an implement for handling food or any of various agricultural tools.;instrument CONTEXT,holding TASK,lifting TASK,implement CONTEXT
+A utensil with two or more prongs, used for eating or serving food.;utensil CONTEXT,eating TASK
+An implement with two or more prongs used for lifting food to the mouth or holding it when cutting.;implement CONTEXT,lifting TASK,holding TASK,cutting TASK
+A fountain pen is a writing instrument which uses a metal nib to apply a water-based ink to paper.;fountain CONTEXT,pen PIVOT,writing TASK,instrument CONTEXT,metal MATERIAL,nib COMPONENT
+A pen containing a reservoir of ink, which is fed to a writing nib automatically.;pen PIVOT,writing TASK,nib COMPONENT
+A fountain pen is a pen which uses ink that you have drawn up inside it from a bottle.;fountain CONTEXT,pen PIVOT,drawn TASK
+a pen containing an ink reservoir that automatically feeds a metal writing point.;pen PIVOT,metal MATERIAL,writing TASK
+a pen that has a container inside that you fill with ink in order to write with it;pen PIVOT,write TASK
+A flying disc (also called a Frisbee or simply a disc) is a gliding toy or sporting item that is generally made of injection-molded plastic and roughly in diameter with a pronounced lip.;disc CONTEXT,Frisbee PIVOT,plastic MATERIAL
+It is used recreationally and competitively for throwing and catching, as in flying disc games.;throwing TASK,disc CONTEXT
+Spinning the disc imparts a stabilizing gyroscopic force, allowing it to be both aimed with accuracy and thrown for distance.;thrown TASK
+A disk-shaped gliding toy.;disk CONTEXT,toy CONTEXT
+a light, plastic disk about 10 inches in diameter, propelled with a flip of the wrist for recreation or competition.;light WEIGHT,plastic MATERIAL,disk CONTEXT
+A Frisbee is a light plastic disc that one person throws to another as a game.;Frisbee PIVOT,light WEIGHT,plastic MATERIAL,disc CONTEXT,throws TASK
+used for a plastic disk for tossing between players;plastic MATERIAL,disk CONTEXT,tossing TASK
+a round piece of plastic that you throw to another person in a game played outside.;round GEOMETRY,piece CONTEXT,plastic MATERIAL,throw TASK
+a brand of plastic concave disk, used for various catching games by sailing it between two or more players and thrown by making it spin as it is released with a flick of the wrist.;plastic MATERIAL,concave GEOMETRY,disk CONTEXT,thrown TASK
+A trademark for a plastic disk-shaped toy that players throw and catch.;plastic MATERIAL,disk CONTEXT,throw TASK
+Trademark A concave plastic disc designed for skimming through the air as an outdoor game or amusement.;concave GEOMETRY,plastic MATERIAL,disc CONTEXT
+A gel pen uses ink in which pigment is suspended in a water-based gel.;gel CONTEXT,pen PIVOT
+Gel pens can be used for many types of writing and illustration.;Gel CONTEXT,pens PIVOT,writing TASK
+a smooth-writing pen that uses a pigmented, gel-based ink.;writing TASK,pen PIVOT
+Glasses, also known as eyeglasses or spectacles, are vision eyewear, consisting of glass or hard plastic lenses mounted in a frame that holds them in front of a person's eyes, typically utilizing a bridge over the nose and hinged arms (known as temples or temple pieces) which rest over the ears.;Glasses PIVOT,eyeglasses CONTEXT,spectacles CONTEXT,glass MATERIAL,hard HARDNESS,plastic MATERIAL,lenses COMPONENT,holds TASK
+an object that you wear in front of your eyes to help you see better. You usually get your glasses from an optician.;wear TASK,glasses PIVOT
+Glue sticks are solid and hard adhesives in twist or push-up tubes.;Glue CONTEXT,sticks PIVOT,solid HARDNESS,hard HARDNESS,tubes CONTEXT
+Users can apply glue by holding the open tube to keep their fingers clean and rubbing the exposed stick against a surface.;apply TASK,open TASK,tube CONTEXT,rubbing TASK,stick CONTEXT
+A solid adhesive in a twist- or push-up tube, most commonly seen in schools and offices.;solid HARDNESS,tube CONTEXT
+A product in the form of a tube that contains a solid stick of adhesive.;solid HARDNESS,tube CONTEXT,stick CONTEXT
+A golf ball is a special ball designed to be used in the game of golf.;golf CONTEXT,ball PIVOT
+A small, usually white ball that is designed for use in the game of golf.;small SIZE,white COLOR,ball PIVOT
+A golf ball is a small, hard white ball which people use when they are playing golf.;golf CONTEXT,ball PIVOT,small SIZE,hard HARDNESS,white COLOR
+a small hard dimpled ball used in golf.;small SIZE,hard HARDNESS,dimpled TEXTURE,ball PIVOT
+a small white ball used for playing golf.;small SIZE,white COLOR,ball PIVOT
+A small hard ball used in the game of golf, typically made of dimpled white latex.;small SIZE,hard HARDNESS,ball PIVOT,dimpled TEXTURE,white COLOR,latex MATERIAL
+A hairbrush is a handle brush with rigid or soft spokes used in hair care for smoothing, styling, and detangling human hair, or for grooming an animal's fur.;hairbrush PIVOT,handle COMPONENT,brush CONTEXT,rigid HARDNESS,soft HARDNESS,spokes COMPONENT,smoothing TASK,styling TASK,detangling TASK,hair CONTEXT
+A flat brush is normally used for detangling hair, for example after sleep or showering.;flat GEOMETRY,brush PIVOT,detangling TASK
+A round brush can be used for styling and curling hair, especially by a professional stylist, often with a hair dryer.;round GEOMETRY,brush PIVOT,styling TASK,curling TASK
+A paddle brush is used to straighten hair and tame fly-aways.;brush PIVOT,straighten TASK,hair CONTEXT
+A brush used in hair care for brushing, tidying, and detangling hair.;brush PIVOT,brushing TASK,tidying TASK,detangling TASK
+a brush used to groom a person's hair.;brush PIVOT,groom TASK
+A hairbrush is a brush that you use to brush your hair.;hairbrush PIVOT,brush CONTEXT
+A hammer is a tool, most often a hand tool, consisting of a weighted "head" fixed to a long handle that is swung to deliver an impact to a small area of an object.;hammer PIVOT,tool CONTEXT,head COMPONENT,long SIZE,handle COMPONENT,swung TASK
+Hammers are used for a wide range of driving, shaping, breaking and non-destructive striking applications.;Hammers PIVOT,driving TASK,shaping TASK,breaking TASK,striking TASK
+A tool with a heavy head and a handle used for pounding.;tool CONTEXT,heavy WEIGHT,head COMPONENT,handle COMPONENT,pounding TASK
+A hammer is a tool that consists of a heavy piece of metal at the end of a handle.;hammer PIVOT,tool CONTEXT,heavy WEIGHT,metal MATERIAL,handle COMPONENT
+It is used, for example, to hit nails into a piece of wood or a wall, or to break things into pieces.;hit TASK,break TASK
+a hand tool consisting of a solid head set crosswise on a handle and used for pounding.;tool CONTEXT,solid HARDNESS,head COMPONENT,handle COMPONENT,pounding TASK
+a tool used for hitting things or forcing nails into wood that consists of a handle and a heavy metal top with one flat side.;tool CONTEXT,hitting TASK,handle COMPONENT,heavy WEIGHT,metal MATERIAL,top COMPONENT,flat GEOMETRY,side COMPONENT
+a tool consisting of a solid head, usually of metal, set crosswise on a handle, used for beating metals, driving nails, etc.;tool CONTEXT,solid HARDNESS,head COMPONENT,metal MATERIAL,handle COMPONENT,beating TASK,driving TASK
+A hand tool consisting of a handle with a head of metal or other heavy rigid material that is attached at a right angle, used for striking or pounding.;tool CONTEXT,handle COMPONENT,head COMPONENT,metal MATERIAL,heavy WEIGHT,rigid HARDNESS,striking TASK,pounding TASK
+A tool with a heavy metal head mounted at right angles at the end of a handle, used for jobs such as breaking things and driving in nails.;tool CONTEXT,heavy WEIGHT,metal MATERIAL,head COMPONENT,handle COMPONENT,breaking TASK,driving TASK
+A handheld fan, or simply hand fan, may be any broad, flat surface that is waved back-and-forth to create an airflow.;fan PIVOT,broad GEOMETRY,flat GEOMETRY,waved TASK
+Generally, purpose-made handheld fans are folding fans, which are shaped like a sector of a circle and made of a thin material (such as paper or feathers) mounted on slats which revolve around a pivot so that it can be closed when not in use.;fan PIVOT,circle GEOMETRY,thin GEOMETRY,paper MATERIAL
+A hand-held device designed to be waved back and forth in order to induce airflow for the purpose of cooling the user.;waved TASK
+A jar is a rigid, cylindrical or slightly conical container, typically made of glass, ceramic, or plastic, with a wide mouth or opening that can be closed with a lid, screw cap, lug cap, cork stopper, roll-on cap, crimp-on cap, press-on cap, plastic shrink, heat sealed lidding film, an inner seal, a Tamper-evident band, or other suitable means.;jar PIVOT,rigid HARDNESS,cylindrical GEOMETRY,conical GEOMETRY,container CONTEXT,glass MATERIAL,ceramic MATERIAL,plastic MATERIAL,wide GEOMETRY,mouth COMPONENT,closed TASK,lid COMPONENT,cap COMPONENT
+a vessel (usually cylindrical) with a wide mouth and without handles.;vessel CONTEXT,cylindrical GEOMETRY,wide GEOMETRY,mouth COMPONENT
+A jar is a glass container with a lid that is used for storing food.;jar PIVOT,glass MATERIAL,container CONTEXT,lid CONTEXT
+a glass container with a lid and a wide top, especially one in which food is sold or kept.;glass MATERIAL,container CONTEXT,lid CONTEXT,wide GEOMETRY,top COMPONENT
+a broad-mouthed container, usually cylindrical and of glass or earthenware;container CONTEXT,cylindrical GEOMETRY,glass MATERIAL
+A cylindrical glass or earthenware vessel with a wide mouth and usually no handles.;cylindrical GEOMETRY,glass MATERIAL,vessel CONTEXT,wide GEOMETRY,mouth COMPONENT
+A wide-mouthed cylindrical container made of glass or pottery and typically having a lid, used especially for storing food.;cylindrical GEOMETRY,container CONTEXT,glass MATERIAL,lid CONTEXT
+A jug is a type of container commonly used to hold liquids.;jug PIVOT,container CONTEXT,hold TASK
+It has an opening, sometimes narrow, from which to pour or drink, and has a handle, and often a pouring lip.;narrow GEOMETRY,pour TASK,drink TASK,handle COMPONENT,pouring TASK
+Jugs throughout history have been made of metal, and ceramic, or glass, and plastic is now common.;Jugs PIVOT,metal MATERIAL,ceramic MATERIAL,glass MATERIAL,plastic MATERIAL
+In British English, jugs are pouring vessels for holding drinkable liquids.;jugs PIVOT,pouring TASK,vessels CONTEXT,holding TASK
+A serving vessel or container, typically circular in cross-section and typically higher than it is wide, with a relatively small mouth or spout, an ear handle and often a stopper or top.;vessel CONTEXT,container CONTEXT,circular GEOMETRY,small SIZE,mouth COMPONENT,handle COMPONENT
+a large bottle with a narrow mouth.;large SIZE,bottle PIVOT,narrow GEOMETRY,mouth COMPONENT
+A jug is a cylindrical container with a handle and is used for holding and pouring liquids.;jug PIVOT,cylindrical GEOMETRY,container CONTEXT,handle COMPONENT,holding TASK,pouring TASK
+a large deep container (as of glass, earthenware, or plastic) with a narrow mouth and a handle.;large SIZE,container CONTEXT,glass MATERIAL,plastic MATERIAL,narrow GEOMETRY,mouth COMPONENT,handle COMPONENT
+a container from which you pour liquids such as water or milk.;container CONTEXT,pour TASK
+a large container usually made of earthenware, metal, or glass, commonly having a handle, a narrow neck, and sometimes a cap or cork.;large SIZE,container CONTEXT,metal MATERIAL,glass MATERIAL,handle COMPONENT,narrow GEOMETRY,neck COMPONENT,cap COMPONENT
+A large, often rounded vessel of earthenware, glass, or metal with a small mouth, a handle, and usually a stopper or cap.;large SIZE,rounded GEOMETRY,vessel CONTEXT,glass MATERIAL,metal MATERIAL,small SIZE,mouth COMPONENT,handle COMPONENT,cap COMPONENT
+A cylindrical container with a handle and a lip, used for holding and pouring liquids.;cylindrical GEOMETRY,container CONTEXT,handle COMPONENT,holding TASK,pouring TASK
+An object designed to open and close a lock.;open TASK,close TASK
+metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated.;metal MATERIAL,inserted TASK
+A key is a specially shaped piece of metal that you place in a lock and turn in order to open or lock a door, or to start or stop the engine of a vehicle.;key PIVOT,piece CONTEXT,metal MATERIAL,open TASK,lock TASK
+a usually metal instrument by which the bolt of a lock is turned.;metal MATERIAL,instrument CONTEXT
+a small piece of metal used for opening or locking a door or a container, or for starting the engine of a vehicle.;small SIZE,piece CONTEXT,metal MATERIAL,opening TASK,locking TASK
+a small metal instrument specially cut to fit into a lock and move its bolt.;small SIZE,metal MATERIAL,instrument CONTEXT,move TASK
+A notched and grooved, usually metal implement that is turned to open or close a lock.;metal MATERIAL,implement CONTEXT,open TASK,close TASK
+A similar implement or an electronic device used for opening, winding, or starting something.;implement CONTEXT,opening TASK,winding TASK
+A small piece of shaped metal with incisions cut to fit the wards of a particular lock, which is inserted into a lock and turned to open or close it.;small SIZE,piece CONTEXT,metal MATERIAL,inserted TASK,open TASK,close TASK
+Kiwifruit (commonly shortened to kiwi in North America and continental Europe) or Chinese gooseberry is the edible berry of several species of woody vines in the genus "Actinidia".;Kiwifruit PIVOT
+The most common cultivar group of kiwifruit ("Actinidia deliciosa" 'Hayward') is oval, about the size of a large hen's egg: in length and in diameter.;kiwifruit PIVOT,oval GEOMETRY
+It has a thin, fuzzy, fibrous, tart but edible light brown skin and light green or golden flesh with rows of tiny, black, edible seeds.;thin GEOMETRY,fuzzy TEXTURE,fibrous TEXTURE,brown COLOR,skin COMPONENT,tiny SIZE,seeds COMPONENT
+The fruit has a soft texture with a sweet and unique flavour.;fruit CONTEXT,soft HARDNESS
+edible oval fruit of the kiwi plant.;oval GEOMETRY,fruit CONTEXT,kiwi PIVOT
+the edible fruit of a Chinese gooseberry having a fuzzy brown skin and slightly acidic typically green flesh.;fruit CONTEXT,fuzzy TEXTURE,brown COLOR,skin COMPONENT
+A knife (plural knives, from Old Norse 'knife, dirk') is a tool or weapon with a cutting edge or blade, often attached to a handle or hilt.;knife PIVOT,tool CONTEXT,cutting TASK,blade COMPONENT,handle COMPONENT,hilt COMPONENT
+A utensil or a tool designed for cutting, consisting of a flat piece of hard material, usually steel or other metal (the blade), usually sharpened on one edge, attached to a handle.;utensil CONTEXT,tool CONTEXT,cutting TASK,flat GEOMETRY,hard HARDNESS,steel MATERIAL,metal MATERIAL,blade COMPONENT,handle COMPONENT
+A knife is a tool for cutting or a weapon and consists of a flat piece of metal with a sharp edge on the end of a handle.;knife PIVOT,tool CONTEXT,cutting TASK,flat GEOMETRY,metal MATERIAL,handle COMPONENT
+a cutting instrument consisting of a sharp blade fastened to a handle.;cutting TASK,instrument CONTEXT,blade COMPONENT,handle COMPONENT
+an object with a sharp blade for cutting food.;blade COMPONENT,cutting TASK
+an instrument for cutting, consisting essentially of a thin, sharp-edged, metal blade fitted with a handle.;instrument CONTEXT,cutting TASK,thin GEOMETRY,metal MATERIAL,blade COMPONENT,handle COMPONENT
+A cutting instrument consisting of a sharp blade attached to a handle.;cutting TASK,instrument CONTEXT,blade COMPONENT,handle COMPONENT
+An instrument composed of a blade fixed into a handle, used for cutting or as a weapon.;instrument CONTEXT,blade COMPONENT,handle COMPONENT,cutting TASK
+A deep-bowled spoon with a long, usually curved, handle.;spoon PIVOT,long SIZE,curved GEOMETRY,handle COMPONENT
+a spoon-shaped vessel with a long handle, frequently used to transfer liquids from one container to another;vessel CONTEXT,long SIZE,handle COMPONENT,transfer TASK
+A ladle is a large, round, deep spoon with a long handle, used for serving soup, stew, or sauce.;ladle PIVOT,large SIZE,round GEOMETRY,long SIZE,handle COMPONENT
+a deep-bowled long-handled spoon used especially for dipping up and conveying liquids.;long SIZE,handled COMPONENT,spoon PIVOT,conveying TASK
+a large deep spoon with a long handle, used for serving liquid food such as soup;large SIZE,spoon PIVOT,long SIZE,handle COMPONENT,serving TASK
+a long-handled utensil with a cup-shaped bowl for dipping or conveying liquids.;long SIZE,handled COMPONENT,utensil CONTEXT,conveying TASK
+A long-handled spoon with a deep bowl for serving liquids.;long SIZE,handled COMPONENT,spoon PIVOT,serving TASK
+A large long-handled spoon with a cup-shaped bowl, used for serving soup or sauce.;long SIZE,handled COMPONENT,spoon PIVOT,serving TASK
+The lemon ("Citrus limon") is a species of small evergreen tree in the flowering plant family Rutaceae, native to Asia, primarily Northeast India (Assam), Northern Myanmar or China.;lemon PIVOT
+A yellowish citrus fruit.;yellowish COLOR,fruit CONTEXT
+yellow oval fruit with juicy acidic flesh.;yellow COLOR,oval GEOMETRY,fruit CONTEXT
+A lemon is a bright yellow fruit with very sour juice.;lemon PIVOT,yellow COLOR,fruit CONTEXT
+an acid fruit that is botanically a many-seeded pale yellow oblong berry produced by a small thorny citrus tree (Citrus limon) and that has a rind from which an aromatic oil is extracted.;fruit CONTEXT,yellow COLOR,oblong GEOMETRY
+fruit with a hard yellow skin and sour juice.;fruit CONTEXT,hard HARDNESS,yellow COLOR,skin COMPONENT
+the yellowish, acid fruit of a subtropical citrus tree, Citrus limon.;yellowish COLOR,fruit CONTEXT
+A spiny evergreen tree (Citrus limon) native to Asia, widely cultivated for its oval yellow fruit.;spiny TEXTURE,oval GEOMETRY,yellow COLOR,fruit CONTEXT
+A pale yellow oval citrus fruit with thick skin and fragrant, acidic juice.;yellow COLOR,oval GEOMETRY,fruit CONTEXT,thick GEOMETRY,skin COMPONENT
+A lollipop is a type of sugar candy usually consisting of hard candy mounted on a stick and intended for sucking or licking.;lollipop PIVOT,hard HARDNESS,candy CONTEXT,stick COMPONENT,sucking TASK,licking TASK
+Lollipops are available in many flavors and shapes.;Lollipops PIVOT
+A lollipop is a sweet consisting of a hard disc or ball of a sugary substance on the end of a stick.;lollipop PIVOT,hard HARDNESS,disc GEOMETRY,stick COMPONENT
+a piece of hard candy on the end of a stick.;piece CONTEXT,hard HARDNESS,candy CONTEXT,stick COMPONENT
+a hard sweet on the end of a stick.;hard HARDNESS,sweet CONTEXT,stick COMPONENT
+a piece of hard candy attached to the end of a small stick that is held in the hand while the candy is licked.;piece CONTEXT,hard HARDNESS,candy CONTEXT,small SIZE,stick COMPONENT,held TASK,licked TASK
+A confection consisting of a piece of hard candy attached to the end of a small stick.;piece CONTEXT,hard HARDNESS,candy CONTEXT,small SIZE,stick COMPONENT
+A large, flat, rounded boiled sweet on the end of a stick.;large SIZE,flat GEOMETRY,rounded GEOMETRY,sweet CONTEXT,stick COMPONENT
+Marble is a metamorphic rock composed of recrystallized carbonate minerals, most commonly calcite or dolomite.;Marble PIVOT,rock MATERIAL
+a hard crystalline metamorphic rock that takes a high polish, used for sculpture and as building material.;hard HARDNESS,rock MATERIAL
+Marble is a type of very hard rock which feels cold when you touch it and which shines when it is cut and polished.;Marble PIVOT,hard HARDNESS,rock MATERIAL
+a hard smooth stone used for building and making statues.;hard HARDNESS,smooth TEXTURE,stone MATERIAL
+A marker pen, fine liner, marking pen, felt-tip pen, flow marker, sign pen (in South Korea), vivid (in New Zealand), texta (in Australia), sketch pen (in South Asia) or koki (in South Africa), is a pen which has its own ink source and a tip made of porous, pressed fibers such as felt.;marker CONTEXT,pen PIVOT,marking TASK,sign TASK,sketch TASK,tip COMPONENT,felt MATERIAL
+A pen, often with a thick tip made of felt.;pen PIVOT,thick GEOMETRY,tip COMPONENT,felt MATERIAL
+a pen with a thick tip made of felt.;pen PIVOT,thick GEOMETRY,tip COMPONENT,felt MATERIAL
+A mobile phone, cellular phone, cell phone, cellphone, handphone, or hand phone, sometimes shortened to simply mobile, cell or just phone, is a portable telephone that can make and receive calls over a radio frequency link while the user is moving within a telephone service area.;mobile CONTEXT,phone PIVOT
+A mobile phone is a phone that you can carry with you and use to make or receive calls wherever you are.;mobile CONTEXT,phone PIVOT,carry TASK
+a small phone that you can carry around with you.;small SIZE,phone PIVOT,carry TASK
+A mousepad is a surface for placing and moving a computer mouse.;mousepad PIVOT,surface CONTEXT
+a small portable pad that provides traction for the ball of a computer mouse.;small SIZE,pad PIVOT
+a thin flat pad (as of rubber) on which a computer mouse is used.;thin GEOMETRY,flat GEOMETRY,pad PIVOT,rubber MATERIAL
+a small, typically foam rubber sheet used to provide a stable surface on which a mouse can be moved.;small SIZE,rubber MATERIAL,sheet PIVOT,surface CONTEXT
+A flat pad, as of specially coated foam rubber, designed to provide an optimum surface on which to use a mouse.;flat GEOMETRY,pad CONTEXT,rubber MATERIAL,surface CONTEXT
+A piece of rigid or slightly resilient material on which a computer mouse is moved.;piece CONTEXT,rigid HARDNESS
+A mug is a type of cup typically used for drinking hot drinks, such as coffee, hot chocolate, or tea.;mug PIVOT,cup CONTEXT,drinking TASK
+Mugs usually have handles and hold a larger amount of fluid than other types of cup.;Mugs PIVOT,handles COMPONENT,hold TASK
+A large cup for hot liquids, usually having a handle and used without a saucer.;large SIZE,cup CONTEXT,handle COMPONENT
+A mug is a large deep cup with straight sides and a handle, used for hot drinks.;mug PIVOT,large SIZE,cup CONTEXT,straight GEOMETRY,sides COMPONENT,handle COMPONENT
+a cylindrical drinking cup.;cylindrical GEOMETRY,drinking TASK,cup PIVOT
+a cup with straight sides and no saucer, used mainly for hot drinks.;cup PIVOT,straight GEOMETRY,sides COMPONENT
+a drinking cup, usually cylindrical in shape, having a handle, and often of a heavy substance, as earthenware.;drinking TASK,cup PIVOT,cylindrical GEOMETRY,handle COMPONENT,heavy WEIGHT
+A heavy cylindrical drinking cup usually having a handle.;heavy WEIGHT,cylindrical GEOMETRY,drinking TASK,cup PIVOT,handle COMPONENT
+A large cup, typically cylindrical with a handle and used without a saucer.;large SIZE,cup PIVOT,cylindrical GEOMETRY,handle COMPONENT
+A newspaper is a periodical publication containing written information about current events and is often typed in black ink with a white or gray background.;newspaper PIVOT,black COLOR,white COLOR,gray COLOR
+A newspaper is a publication consisting of a number of large sheets of folded paper, on which news, advertisements, and other information is printed.;newspaper PIVOT,large SIZE,sheets CONTEXT,paper MATERIAL
+a set of large printed sheets of folded paper containing news, articles, and other information, usually published every day.;large SIZE,sheets CONTEXT,paper MATERIAL
+A notepad is a pad of paper that you use for writing notes or letters on.;notepad PIVOT,pad CONTEXT,paper MATERIAL
+several sheets of paper joined together along one edge, used for writing notes;sheets CONTEXT,paper MATERIAL
+a pad of blank pages for writing notes.;pad CONTEXT,pages COMPONENT
+A pad or tablet of usually lined paper.;pad CONTEXT,paper MATERIAL
+A pad of blank or ruled pages for writing notes on.;pad CONTEXT,pages COMPONENT
+The onion ("Allium cepa" L., from Latin "cepa" "onion"), also known as the bulb onion or common onion, is a vegetable that is the most widely cultivated species of the genus "Allium".;onion PIVOT,vegetable CONTEXT
+An onion is a round vegetable with a brown skin that grows underground.;onion PIVOT,round GEOMETRY,vegetable CONTEXT,brown COLOR,skin COMPONENT
+a round vegetable with thin dry skin and many layers inside that tastes and smells very strong.;round GEOMETRY,vegetable CONTEXT,thin GEOMETRY,skin COMPONENT
+The rounded edible bulb of this plant, composed of fleshy, tight, concentric leaf bases having a pungent odor and taste.;rounded GEOMETRY
+A paintbrush is a brush used to apply paint or sometimes ink.;paintbrush PIVOT,brush CONTEXT,apply TASK
+A paintbrush is usually made by clamping the bristles to a handle with a ferrule.;paintbrush PIVOT,clamping TASK,bristles COMPONENT,handle COMPONENT
+A thin brush for applying paint.;thin GEOMETRY,brush PIVOT,applying TASK
+A paintbrush is a brush which you use for painting.;paintbrush PIVOT,brush CONTEXT,painting TASK
+a brush for applying paint.;brush PIVOT,applying TASK
+a brush used for putting paint on a surface or for making a picture with paints.;brush PIVOT,putting TASK
+a brush for applying paint, as one used in painting houses or one used in painting pictures.;brush PIVOT,applying TASK
+A brush for applying paint.;brush PIVOT,applying TASK
+cooking utensil consisting of a wide metal vessel;cooking TASK,utensil CONTEXT,metal MATERIAL,vessel CONTEXT
+A pan is a round metal container with a long handle, which is used for cooking things in, usually on top of a cooker or stove.;pan PIVOT,round GEOMETRY,metal MATERIAL,container CONTEXT,long SIZE,handle COMPONENT,cooking TASK
+a usually broad, shallow, and open container for domestic use (as for cooking).;broad GEOMETRY,container CONTEXT,cooking TASK
+a round metal container used for cooking, with a handle and usually a lid.;round GEOMETRY,metal MATERIAL,cooking TASK,handle COMPONENT,lid COMPONENT
+a broad, shallow container of metal, usually having sides flaring outward toward the top, used in various forms for frying, baking, washing, etc.;broad GEOMETRY,container CONTEXT,metal MATERIAL
+A shallow, wide, open container, usually of metal and without a lid, used for holding liquids, cooking, and other domestic purposes.;wide GEOMETRY,container CONTEXT,metal MATERIAL,holding TASK,cooking TASK
+A metal container used for cooking food in.;metal MATERIAL,container CONTEXT,cooking TASK
+The peach ("Prunus persica") is a deciduous tree native to the region of Northwest China between the Tarim Basin and the north slopes of the Kunlun Mountains, where it was first domesticated and cultivated;peach PIVOT
+A peach is a soft, round, slightly furry fruit with sweet yellow flesh and pinky-orange skin.;peach PIVOT,soft HARDNESS,round GEOMETRY,fruit CONTEXT,pinky COLOR,orange COLOR,skin COMPONENT
+a fruit with a furry yellowish-pink skin that is yellow inside and has a large hard seed.;fruit CONTEXT,yellowish COLOR,pink COLOR,yellow COLOR,large SIZE,hard HARDNESS,fruit CONTEXT
+A round stone fruit with juicy yellow flesh and downy pinkish-yellow skin.;round GEOMETRY,fruit CONTEXT,pinkish COLOR,yellow COLOR,skin COMPONENT
+Pears are fruits produced and consumed around the world, growing on a tree and harvested in the Northern Hemisphere in late summer into October.;Pears PIVOT,fruits CONTEXT
+An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem.;fruit CONTEXT,elongated GEOMETRY,stem COMPONENT
+sweet juicy gritty-textured fruit available in many varieties.;gritty TEXTURE,fruit CONTEXT
+A pear is a sweet, juicy fruit which is narrow near its stalk, and wider and rounded at the bottom.;pear PIVOT,fruit CONTEXT,narrow GEOMETRY,stalk COMPONENT,wider GEOMETRY,rounded GEOMETRY,bottom COMPONENT
+Pears have white flesh and thin green or yellow skin.;Pears PIVOT,thin GEOMETRY,green COLOR,yellow COLOR,skin COMPONENT
+a pome fruit of a tree (genus Pyrus, especially P. communis) of the rose family that typically has a pale green or brownish skin, a firm juicy flesh, and an oblong shape in which a broad base end tapers upward to a narrow stem end.;fruit CONTEXT,green COLOR,brownish COLOR,skin COMPONENT,oblong GEOMETRY,narrow GEOMETRY,stem COMPONENT
+a fruit that is smaller towards the stem end, is white inside, and has yellow, green, or brown skin.;fruit CONTEXT,stem COMPONENT,yellow COLOR,green COLOR,brown COLOR
+the edible fruit, typically rounded but elongated and growing smaller toward the stem, of a tree, Pyrus communis, of the rose family.;fruit CONTEXT,rounded GEOMETRY,elongated GEOMETRY,stem COMPONENT
+A yellowish- or brownish-green edible fruit that is typically narrow at the stalk and wider towards the base, with sweet, slightly gritty flesh.;yellowish COLOR,brownish COLOR,fruit CONTEXT,narrow GEOMETRY,stalk COMPONENT,wider GEOMETRY,base COMPONENT
+A pencil is a writing or drawing implement with a solid pigment core encased in a sleeve, barrel, or shaft that prevents breaking the core or marking a user's hand.;pencil PIVOT,writing TASK,drawing TASK,implement CONTEXT
+a thin cylindrical pointed writing implement, a rod of marking substance encased in wood.;thin GEOMETRY,cylindrical GEOMETRY,writing TASK,implement CONTEXT,wood MATERIAL
+A pencil is an object that you write or draw with.;pencil PIVOT,write TASK,draw TASK
+If you write or draw something in pencil, you do it using a pencil.;write TASK,draw TASK,pencil PIVOT
+a long thin object, usually made of wood, that you use for writing or drawing by pressing the black or coloured part in its centre against paper or some other surface.;long SIZE,thin GEOMETRY,wood MATERIAL,writing TASK,drawing TASK
+A narrow, generally cylindrical implement for writing, drawing, or marking, consisting of a thin rod of graphite, colored wax, or similar substance encased in wood or held in a mechanical holder.;narrow GEOMETRY,cylindrical GEOMETRY,implement CONTEXT,writing TASK,drawing TASK,marking TASK,thin GEOMETRY,wood MATERIAL
+An instrument for writing or drawing, consisting of a thin stick of graphite or a similar substance enclosed in a long thin piece of wood or fixed in a cylindrical case.;writing TASK,drawing TASK,thin GEOMETRY,stick CONTEXT,long SIZE,wood MATERIAL,cylindrical GEOMETRY
+A small, usually round or cylindrical object designed for easy swallowing, usually containing some sort of medication.;small SIZE,round GEOMETRY,cylindrical GEOMETRY
+Pills are small solid round masses of medicine or vitamins that you swallow without chewing.;Pills PIVOT,small SIZE,solid HARDNESS,round GEOMETRY
+a usually medicinal or dietary preparation in a small rounded mass to be swallowed whole.;small SIZE,rounded GEOMETRY
+a small piece of solid medicine that you swallow with water.;small SIZE,piece CONTEXT,solid HARDNESS
+a small globular or rounded mass of medicinal substance, usually covered with a hard coating, that is to be swallowed whole.;small SIZE,globular GEOMETRY,rounded GEOMETRY,hard HARDNESS
+A small pellet or tablet of medicine, often coated, taken by swallowing whole or by chewing.;small SIZE,pellet PIVOT
+A small round mass of solid medicine for swallowing whole.;small SIZE,round GEOMETRY,solid HARDNESS
+Pliers are a hand tool used to hold objects firmly, possibly developed from tongs used to handle hot metal in Bronze Age Europe.;Pliers PIVOT,tool CONTEXT,hold TASK,handle COMPONENT
+Generally, pliers consist of a pair of metal first-class levers joined at a fulcrum positioned closer to one end of the levers, creating short "jaws" on one side of the fulcrum, and longer "handles" on the other side.;pliers PIVOT,metal MATERIAL,levers COMPONENT,jaws COMPONENT,handles COMPONENT
+A pincer-like gripping tool that multiplies the strength of the user's hand, often used for bending things.;tool CONTEXT,bending TASK
+Pliers are a tool with two handles at one end and two hard, flat, metal parts at the other.;Pliers PIVOT,tool CONTEXT,handles COMPONENT,hard HARDNESS,flat GEOMETRY,metal MATERIAL,parts COMPONENT
+Pliers are used for holding or pulling out things such as nails, or for bending or cutting wire.;Pliers PIVOT,holding TASK,pulling TASK,bending TASK,cutting TASK
+a small pincers for holding small objects or for bending and cutting wire.;small SIZE,holding TASK,bending TASK,cutting TASK
+a metal tool that looks like a strong pair of scissors, used for holding small objects or for bending or cutting wire;metal MATERIAL,tool CONTEXT,holding TASK,bending TASK,cutting TASK
+a gripping tool consisting of two hinged arms with usually serrated jaws that close on the workpiece.;gripping TASK,tool CONTEXT,jaws COMPONENT
+Pincers with parallel, flat, and typically serrated surfaces, used chiefly for gripping small objects or bending wire.;Pincers PIVOT,flat GEOMETRY,surfaces COMPONENT,gripping TASK,bending TASK
+A slightly curved but almost flat dish from which food is served or eaten.;curved GEOMETRY,flat GEOMETRY,dish CONTEXT
+A plate is a round or oval flat dish that is used to hold food.;plate PIVOT,round GEOMETRY,oval GEOMETRY,flat GEOMETRY,dish CONTEXT,hold TASK
+a smooth flat thin piece of material.;smooth TEXTURE,flat GEOMETRY,thin GEOMETRY,piece CONTEXT
+a flat round dish that you put food on.;flat GEOMETRY,round GEOMETRY,dish PIVOT,put TASK
+a shallow, usually circular dish, often of earthenware or porcelain, from which food is eaten.;circular GEOMETRY,dish PIVOT,porcelain MATERIAL
+A smooth, flat, relatively thin, rigid body of uniform thickness.;smooth TEXTURE,flat GEOMETRY,thin GEOMETRY,rigid HARDNESS
+A flat dish, typically circular and made of china, from which food is eaten or served.;flat GEOMETRY,dish PIVOT,circular GEOMETRY,china MATERIAL
+A playing card is a piece of specially prepared card stock, heavy paper, thin cardboard, plastic-coated paper, cotton-paper blend, or thin plastic that is marked with distinguishing motifs.;playing CONTEXT,card PIVOT,piece CONTEXT,heavy WEIGHT,paper MATERIAL,thin GEOMETRY,cardboard MATERIAL,plastic MATERIAL
+Playing cards are thin pieces of cardboard with numbers or pictures printed on them, which are used to play various games.;Playing CONTEXT,cards PIVOT,thin GEOMETRY,cardboard MATERIAL,play TASK
+one of a set of 24 to 78 thin rectangular pieces of cardboard or plastic marked on one side to show its rank and suit and used in playing any of numerous games.;thin GEOMETRY,rectangular GEOMETRY,cardboard MATERIAL,plastic MATERIAL,playing TASK
+a card used for playing card games.;card PIVOT,playing TASK
+one of the conventional set of 52 cards in four suits, as diamonds, hearts, spades, and clubs, used in playing various games of chance and skill.;playing TASK
+Each of a set of rectangular pieces of card having a sequence of numbers and symbols on one side, used to play various games, some involving gambling.;rectangular GEOMETRY,card PIVOT,play TASK
+The potato is a starchy tuber of the plant Solanum tuberosum and is a root vegetable native to the Americas, with the plant itself being a perennial in the nightshade family Solanaceae.;potato PIVOT,vegetable CONTEXT
+Potatoes are quite round vegetables with brown or red skins and white insides.;Potatoes PIVOT,round GEOMETRY,vegetables CONTEXT,brown COLOR,red COLOR,skins COMPONENT
+a very common hard round vegetable that has a brown, red, or yellow skin and is white or yellow inside.;hard HARDNESS,round GEOMETRY,vegetable CONTEXT,brown COLOR,red COLOR,yellow COLOR,skin COMPONENT
+A potato chip (often just chip, or crisp in British and Irish English) is a thin slice of potato that has been either deep fried or baked until crunchy.;potato CONTEXT,chip PIVOT,thin GEOMETRY,slice CONTEXT,crunchy TEXTURE
+One of a batch of pieces of potato cut into elongated cubes and fried, a chip or chipped potato, usually larger than American french fries.;elongated GEOMETRY,potato CONTEXT,chip PIVOT
+Potato chips are very thin slices of potato that have been fried until they are hard, dry, and crisp, and are eaten cold as a snack.;Potato CONTEXT,chips PIVOT,thin GEOMETRY,slice CONTEXT,hard HARDNESS
+a thin slice of white potato that has been cooked until crisp and then usually salted.;thin GEOMETRY,slice CONTEXT
+a thin slice of potato fried until crisp and usually salted.;thin GEOMETRY,slice CONTEXT
+A thin slice of potato fried in deep fat until crisp and then usually seasoned: ate potato chips while we watched the movie.;thin GEOMETRY,slice CONTEXT,potato CONTEXT,chips PIVOT
+A quill is a writing tool made from a moulted flight feather (preferably a primary wing-feather) of a large bird.;quill PIVOT,feather CONTEXT,writing TASK,tool CONTEXT
+Quills were used for writing with ink before the invention of the dip pen, the metal-nibbed pen, the fountain pen, and, eventually, the ballpoint pen.;Quills PIVOT,writing TASK
+A quill is a pen made from a bird's feather.;quill PIVOT,pen CONTEXT,feather COMPONENT
+In electronics, a remote control or clicker is an electronic device used to operate another device from a distance, usually wirelessly.;remote PIVOT,control CONTEXT,operate TASK
+In consumer electronics, a remote control can be used to operate devices such as a television set, DVD player or other home appliance.;remote PIVOT,control CONTEXT,operate TASK
+A remote control can allow operation of devices that are out of convenient reach for direct operation of controls.;remote PIVOT,control CONTEXT
+In some cases, remote controls allow a person to operate a device that they otherwise would not be able to reach, as when a garage door opener is triggered from outside.;remote PIVOT,controls CONTEXT,operate TASK
+Remote control is a system of controlling a machine or a vehicle from a distance by using radio or electronic signals.;Remote PIVOT,control CONTEXT
+The Rubik's Cube is a 3-D combination puzzle invented in 1974 by Hungarian sculptor and professor of architecture Erno Rubik.;Rubik CONTEXT,Cube PIVOT
+a puzzle consisting of a cube with colored faces made of 26 smaller colored blocks attached to a spindle in the center, the object being to rotate the blocks until each face of the cube is a single color.;cube GEOMETRY
+a puzzle in the form of a box with nine different coloured squares on each side.;box CONTEXT
+A puzzle in the form of a plastic cube covered with multicoloured squares, which the player attempts to twist and turn so that all the squares on each face are of the same colour.;plastic MATERIAL,cube GEOMETRY
+A scalpel, or lancet, or bistoury, is a small and extremely sharp bladed instrument used for surgery, anatomical dissection, podiatry and various arts and crafts (called a hobby knife).;scalpel PIVOT,lancet CONTEXT,bistoury CONTEXT,small SIZE,blade COMPONENT,instrument CONTEXT,surgery TASK
+Scalpels may be single-use disposable or re-usable.;Scalpels PIVOT
+Re-usable scalpels can have permanently attached blades that can be sharpened or, more commonly, removable single-use blades.;scalpels PIVOT,blades COMPONENT
+Disposable scalpels usually have a plastic handle with an extensible blade (like a utility knife) and are used once, then the entire instrument is discarded.;scalpels PIVOT,plastic MATERIAL,handle COMPONENT,blade COMPONENT,instrument CONTEXT
+A small straight knife with a very sharp blade used for surgery, dissection and craftwork.;small SIZE,straight GEOMETRY,knife CONTEXT,blade COMPONENT,surgery TASK,dissection TASK
+a thin straight surgical knife used in dissection and surgery.;thin GEOMETRY,straight GEOMETRY,knife CONTEXT,dissection TASK,surgery TASK
+A scalpel is a knife with a short, thin, sharp blade.;scalpel PIVOT,knife CONTEXT,short SIZE,thin GEOMETRY,blade COMPONENT
+a small straight thin-bladed knife used especially in surgery.;small SIZE,straight GEOMETRY,thin GEOMETRY,bladed COMPONENT,knife CONTEXT,surgery TASK
+a small sharp knife used by a doctor for doing an operation.;small SIZE,knife CONTEXT
+a small, light, usually straight knife used in surgical and anatomical operations and dissections.;small SIZE,light WEIGHT,straight GEOMETRY,knife CONTEXT,dissections TASK
+A small straight knife with a thin sharp blade used in surgery and dissection.;small SIZE,straight GEOMETRY,knife COMPONENT,thin GEOMETRY,blade COMPONENT,surgery TASK,dissection TASK
+A knife with a small, sharp, sometimes detachable blade, as used by a surgeon.;knife CONTEXT,small SIZE,blade COMPONENT
+Scissors are hand-operated shearing tools.;Scissors PIVOT,tools CONTEXT
+A pair of scissors consists of a pair of metal blades pivoted so that the sharpened edges slide against each other when the handles (bows) opposite to the pivot are closed.;scissors PIVOT,metal MATERIAL,blades COMPONENT,handles COMPONENT
+Scissors are used for cutting various thin materials, such as paper, cardboard, metal foil, cloth, rope, and wire.;Scissors PIVOT,cutting TASK
+A tool used for cutting thin material, consisting of two crossing blades attached at a pivot point in such a way that the blades slide across each other when the handles are closed.;tool CONTEXT,cutting TASK,thin GEOMETRY,blades COMPONENT,handles COMPONENT
+an edge tool having two crossed pivoting blades.;tool CONTEXT,blades COMPONENT
+Scissors are a small cutting tool with two sharp blades that are screwed together.;Scissors PIVOT,small SIZE,cutting TASK,tool CONTEXT,blades COMPONENT
+You use scissors for cutting things such as paper and cloth.;scissors PIVOT,cutting TASK
+a cutting instrument having two blades whose cutting edges slide past each other.;cutting TASK,instrument CONTEXT,blades COMPONENT
+a tool for cutting paper, consisting of two blades joined in a cross that you open and shut like jaws.;tool CONTEXT,cutting TASK,blades COMPONENT,open TASK
+(used with a singular or plural verb) a cutting instrument for paper, cloth, etc.;cutting TASK,instrument CONTEXT
+consisting of two blades, each having a ring-shaped handle, that are so pivoted together that their sharp edges work one against the other (often used with pair of).;blades COMPONENT,ring GEOMETRY,handle COMPONENT
+A cutting implement consisting of two blades joined by a swivel pin that allows the cutting edges to be opened and closed.;cutting TASK,implement CONTEXT,blades COMPONENT
+An instrument used for cutting cloth, paper, and other material, consisting of two blades laid one on top of the other and fastened in the middle so as to allow them to be opened and closed by a thumb and finger inserted through rings on the end of their handles.;instrument CONTEXT,cutting TASK,blades COMPONENT,handles COMPONENT
+A screw and a bolt (see "Differentiation between bolt and screw" below) are similar types of fastener typically made of metal and characterized by a helical ridge, called a "male thread" (external thread).;screw PIVOT,metal MATERIAL
+Screws and bolts are used to fasten materials by the engagement of the screw thread with a similar "female thread" (internal thread) in the matching part.;Screws PIVOT,fasten TASK
+A screw is a metal object similar to a nail, with a raised spiral line around it.;screw PIVOT,metal MATERIAL
+a simple machine of the inclined plane type consisting of a spirally grooved solid cylinder and a correspondingly grooved hollow cylinder into which it fits.;solid HARDNESS,cylinder GEOMETRY
+a thin pointed piece of metal that is used for fastening one thing to another.;thin GEOMETRY,metal MATERIAL,fastening TASK
+You push and turn it with a screwdriver instead of hitting it with a hammer like a nail.;push TASK,turn TASK
+A short, slender, sharp-pointed metal pin with a raised helical thread running round it and a slotted head, used to join things together by being rotated so that it pierces wood or other material and is held tightly in place.;short SIZE,slender GEOMETRY,metal MATERIAL,pin CONTEXT,round GEOMETRY
+A screwdriver is a tool, manual or powered, used for driving screws.;screwdriver PIVOT,tool CONTEXT,driving TASK
+A typical simple screwdriver has a handle and a shaft, ending in a tip the user puts into the screw head before turning the handle.;screwdriver PIVOT,handle COMPONENT,shaft COMPONENT,tip COMPONENT,turning TASK
+Handles are typically wood, metal, or plastic and usually hexagonal, square, or oval in cross-section to improve grip and prevent the tool from rolling when set down.;wood MATERIAL,metal MATERIAL,plastic MATERIAL,hexagonal GEOMETRY,square GEOMETRY,oval GEOMETRY,tool CONTEXT
+a hand tool for driving screws, has a tip that fits into the head of a screw.;tool CONTEXT,driving TASK,tip COMPONENT
+A screwdriver is a tool that is used for turning screws.;screwdriver PIVOT,tool CONTEXT,turning TASK
+a tool for turning screws.;tool CONTEXT,turning TASK
+a hand tool for turning a screw, consisting of a handle attached to a long, narrow shank, usually of metal, which tapers and flattens out to a tip that fits into the slotted head of a screw.;tool CONTEXT,turning TASK,handle COMPONENT,long SIZE,narrow GEOMETRY,shank COMPONENT,metal MATERIAL,tip COMPONENT
+A single piece of loose paper, which, when bound in a book or booklet, consists of two pages (one on the front and one on the back).;piece CONTEXT,paper MATERIAL
+A spatula is a broad, flat, flexible blade used to mix, spread and lift material including foods, drugs, plaster and paints.;spatula PIVOT,broad GEOMETRY,flat GEOMETRY,flexible MATERIAL,blade COMPONENT,mix TASK,spread TASK,lift TASK
+A kitchen utensil consisting of a flat surface attached to a long handle, used for turning, lifting, or stirring food.;utensil CONTEXT,flat GEOMETRY,surface COMPONENT,long SIZE,handle COMPONENT,turning TASK,lifting TASK,stirring TASK
+a turner with a narrow flexible blade.;narrow GEOMETRY,flexible MATERIAL,blade COMPONENT
+a flat thin implement used especially for spreading or mixing soft substances, scooping, or lifting.;flat GEOMETRY,thin GEOMETRY,implement CONTEXT,spreading TASK,mixing TASK,lifting TASK
+a kitchen tool with a handle at one end and a wide flat part at the other for lifting hot foods or for spreading soft substances.;tool CONTEXT,handle COMPONENT,wide GEOMETRY,flat GEOMETRY,part COMPONENT,lifting TASK,spreading TASK
+an implement with a broad, flat, usually flexible blade, used for blending foods or removing them from cooking utensils, mixing drugs, spreading plasters and paints, etc.;implement CONTEXT,broad GEOMETRY,flat GEOMETRY,flexible MATERIAL,blade COMPONENT,blending TASK,cooking TASK,mixing TASK,spreading TASK
+A small implement having a straight handle and a broad, flexible blade that is used to mix or spread semiliquid substances: used a spatula to apply the joint compound.;small SIZE,implement CONTEXT,straight GEOMETRY,handle COMPONENT,broad GEOMETRY,flexible MATERIAL,blade COMPONENT,apply TASK
+An implement with a broad, flat, blunt blade, used for mixing and spreading things, especially in cooking and painting.;implement CONTEXT,broad GEOMETRY,flat GEOMETRY,blade COMPONENT,mixing TASK,spreading TASK,cooking TASK,painting TASK
+Sponge is a very light soft substance with lots of little holes in it, which can be either artificial or natural. It is used to clean things or as a soft layer.;Sponge PIVOT,light WEIGHT,soft HARDNESS,clean TASK
+a piece of a soft artificial or natural substance that is used for taking liquid into itself, for cleaning things, or for washing yourself.;piece CONTEXT,soft HARDNESS,cleaning TASK,washing TASK
+A spoon is a utensil consisting of a small shallow bowl (also known as a head), oval or round, at the end of a handle.;spoon PIVOT,utensil CONTEXT,small SIZE,bowl COMPONENT,oval GEOMETRY,round GEOMETRY,handle COMPONENT
+Spoons are also used in food preparation to measure, mix, stir and toss ingredients and for serving food.;Spoons PIVOT,stir TASK,toss TASK
+Present day spoons are made from metal (notably flat silver or silverware, plated or solid), wood, porcelain or plastic.;metal MATERIAL,solid HARDNESS,wood MATERIAL,porcelain MATERIAL,plastic MATERIAL
+An implement for eating or serving, a scooped utensil whose long handle is straight, in contrast to a ladle.;implement CONTEXT,eating TASK,utensil CONTEXT,long SIZE,handle COMPONENT,straight GEOMETRY
+a piece of cutlery with a shallow bowl-shaped container and a handle, used to stir or serve or take up food.;piece CONTEXT,handle COMPONENT,stir TASK
+A spoon is an object used for eating, stirring, and serving food.;spoon PIVOT,eating TASK,stirring TASK
+One end of it is shaped like a shallow bowl and it has a long handle.;long SIZE,handle COMPONENT
+an eating or cooking implement consisting of a small shallow bowl with a relatively long handle.;eating TASK,cooking TASK,implement CONTEXT,small SIZE,bowl COMPONENT,long SIZE,handle COMPONENT
+an object used for eating soup and other liquid foods and for mixing and preparing food.;eating TASK,mixing TASK
+a utensil for use in eating, stirring, measuring, ladling, etc., consisting of a small, shallow bowl with a handle.;utensil CONTEXT,eating TASK,stirring TASK,measuring TASK,small SIZE,bowl COMPONENT,handle COMPONENT
+A utensil consisting of a small, shallow bowl on a handle, used in preparing, serving, or eating food.;utensil CONTEXT,small SIZE,bowl COMPONENT,handle COMPONENT,eating TASK
+An implement consisting of a small, shallow oval or round bowl on a long handle, used for eating, stirring, and serving food.;implement CONTEXT,small SIZE,oval GEOMETRY,round GEOMETRY,bowl COMPONENT,long SIZE,handle COMPONENT,eating TASK,stirring TASK
+A strawberry is a small red fruit which is soft and juicy and has tiny yellow seeds on its skin.;strawberry PIVOT,small SIZE,red COLOR,fruit CONTEXT,soft HARDNESS,tiny SIZE,yellow COLOR,seeds COMPONENT,skin COMPONENT
+a small soft red fruit with a lot of very small seeds on its skin.;small SIZE,soft HARDNESS,red COLOR,fruit CONTEXT,skin COMPONENT
+A sweet soft red fruit with a seed-studded surface.;soft HARDNESS,red COLOR,fruit CONTEXT
+A syringe is a simple reciprocating pump consisting of a plunger (though in modern syringes, it is actually a piston) that fits tightly within a cylindrical tube called a barrel.;syringe PIVOT,pump CONTEXT,cylindrical GEOMETRY,tube CONTEXT,barrel COMPONENT
+A device used for injecting or drawing fluids through a membrane.;injecting TASK,drawing TASK
+a medical instrument used to inject or withdraw fluids.;instrument CONTEXT,inject TASK,withdraw TASK
+A syringe is a small tube with a thin hollow needle at the end.;syringe PIVOT,small SIZE,tube CONTEXT,thin GEOMETRY,needle COMPONENT
+Syringes are used for putting liquids into things and for taking liquids out, for example for injecting drugs or for taking blood from someone's body.;Syringes PIVOT,putting TASK,injecting TASK
+a device that consists of a nozzle of varying length and a compressible rubber bulb and is used for injection or irrigation.;rubber MATERIAL,injection TASK
+a needle fitted to a plastic tube, used for taking blood from your body or for putting medicine or drugs into it.;needle COMPONENT,plastic MATERIAL,tube CONTEXT,taking TASK,putting TASK
+a small device consisting of a glass, metal, or hard rubber tube, narrowed at its outlet, and fitted with either a piston or a rubber bulb for drawing in a quantity of fluid or for ejecting fluid in a stream, for cleaning wounds, injecting fluids into the body, etc.;small SIZE,glass MATERIAL,metal MATERIAL,hard HARDNESS,rubber MATERIAL,tube CONTEXT,narrowed GEOMETRY,drawing TASK,ejecting TASK,cleaning TASK,injecting TASK
+A medical instrument used to inject fluids into the body or draw them from it.;instrument CONTEXT,inject TASK,draw TASK
+A tube with a nozzle and piston or bulb for sucking in and ejecting liquid in a thin stream, used for cleaning wounds or body cavities, or fitted with a hollow needle for injecting or withdrawing fluids.;tube GEOMETRY,ejecting TASK,thin GEOMETRY,cleaning TASK,needle COMPONENT,injecting TASK
+A tennis ball is a ball designed for the sport of tennis.;tennis CONTEXT,ball PIVOT
+Tennis balls are fluorescent yellow in organised competitions, but in recreational play can be virtually any color.;Tennis CONTEXT,ball PIVOT,yellow COLOR
+Tennis balls are covered in a fibrous felt which modifies their aerodynamic properties, and each has a white curvilinear oval covering it.;Tennis CONTEXT,balls PIVOT,fibrous TEXTURE,felt MATERIAL
+A hollow, bouncy rubber ball, pressurized and covered with usually yellow felt, used in the game of tennis.;rubber MATERIAL,yellow COLOR,felt MATERIAL
+a hollow rubber ball covered with felt, used in tennis.;rubber MATERIAL,ball PIVOT,felt MATERIAL
+a ball used in tennis that is made of rubber covered with felt and weighs about two ounces.;ball PIVOT,rubber MATERIAL,felt MATERIAL
+a hollow ball used in tennis, made of rubber with a fuzzy covering of woven Dacron, nylon, or wool.;ball PIVOT,rubber MATERIAL,fuzzy TEXTURE,nylon MATERIAL,wool MATERIAL
+A thermometer is a device that measures temperature or a temperature gradient (the degree of hotness or coldness of an object).;thermometer PIVOT
+An apparatus used to measure temperature.;measure TASK
+measuring instrument for measuring temperature.;measuring TASK,instrument CONTEXT
+A thermometer is an instrument for measuring temperature.;thermometer PIVOT,instrument CONTEXT,measuring TASK
+It usually consists of a narrow glass tube containing a thin column of a liquid which rises and falls as the temperature rises and falls.;narrow GEOMETRY,glass MATERIAL,tube CONTEXT,thin GEOMETRY,column COMPONENT
+an instrument for determining temperature.;instrument CONTEXT
+an instrument for measuring temperature, often a sealed glass tube that contains a column of liquid, as mercury, that expands and contracts, or rises and falls, with temperature changes, the temperature being read where the top of the column coincides with a calibrated scale marked on the tube or its frame.;instrument CONTEXT,measuring TASK,glass MATERIAL,tube CONTEXT
+An instrument for measuring temperature, especially one having a graduated glass tube with a bulb containing a liquid, typically mercury or colored alcohol, that expands and rises in the tube as the temperature increases.;instrument CONTEXT,measuring TASK,glass MATERIAL,tube CONTEXT
+An instrument for measuring and indicating temperature, typically one consisting of a narrow, hermetically sealed glass tube marked with graduations and having at one end a bulb containing mercury or alcohol which extends along the tube as it expands.;instrument CONTEXT,measuring TASK,narrow GEOMETRY,glass MATERIAL,tube CONTEXT
+A toothbrush is an oral hygiene instrument used to clean the teeth, gums, and tongue.;toothbrush PIVOT,instrument CONTEXT,clean TASK
+It consists of a head of tightly clustered bristles, atop of which toothpaste can be applied, mounted on a handle which facilitates the cleaning of hard-to-reach areas of the mouth.;head COMPONENT,bristles COMPONENT,handle COMPONENT,cleaning TASK
+A brush, used with toothpaste, for cleaning the teeth.;brush PIVOT,cleaning TASK
+small brush, has long handle, used to clean teeth.;small SIZE,brush PIVOT,long SIZE,handle COMPONENT,clean TASK
+A toothbrush is a small brush that you use for cleaning your teeth.;toothbrush PIVOT,small SIZE,brush CONTEXT,cleaning TASK
+a brush for cleaning the teeth.;brush PIVOT,cleaning TASK
+a small brush used for cleaning your teeth.;small SIZE,brush PIVOT,cleaning TASK
+a small brush with a long handle, for cleaning the teeth.;small SIZE,brush PIVOT,long SIZE,handle COMPONENT,cleaning TASK
+A brush used for cleaning teeth.;brush PIVOT,cleaning TASK
+A small brush with a long handle, used for cleaning the teeth.;small SIZE,brush PIVOT,long SIZE,handle COMPONENT,cleaning TASK
+Anything that is hollow and cylindrical in shape.;cylindrical GEOMETRY
+conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases.;long SIZE,cylindrical GEOMETRY,hold TASK
+A tube is a long hollow object that is usually round, like a pipe.;tube PIVOT,long SIZE,round GEOMETRY,pipe CONTEXT
+any of various usually cylindrical structures or devices: such as;cylindrical GEOMETRY
+a long narrow object similar to a pipe that liquid or gas can move through.;long SIZE,narrow GEOMETRY,pipe PIVOT
+a hollow, usually cylindrical body of metal, glass, rubber, or other material, used especially for conveying or containing liquids or gases.;cylindrical GEOMETRY,metal MATERIAL,glass MATERIAL,rubber MATERIAL
+A hollow cylinder, especially one that conveys a fluid or functions as a passage.;cylinder GEOMETRY
+An organic structure having the shape or function of a tube, a duct: a bronchial tube.;tube CONTEXT
+A long, hollow cylinder of metal, plastic, glass, etc. for holding or transporting something, chiefly liquids or gases.;long SIZE,cylinder GEOMETRY,metal MATERIAL,plastic MATERIAL,glass MATERIAL,holding TASK
+Tweezers are small tools used for picking up objects too small to be easily handled with the human fingers.;Tweezers PIVOT,small SIZE,tools CONTEXT,picking TASK
+A small pincerlike instrument, usually made of metal, used for handling or picking up small objects (such as postage stamps), plucking out (plucking) hairs, pulling out slivers, etc.;small SIZE,instrument CONTEXT,metal MATERIAL,picking TASK,plucking TASK,pulling TASK
+a hand tool for holding consisting of a compound lever for grasping.;tool CONTEXT,lever COMPONENT
+Tweezers are a small tool that you use for tasks such as picking up small objects or pulling out hairs.;Tweezers PIVOT,small SIZE,tool CONTEXT,picking TASK,pulling TASK
+Tweezers consist of two strips of metal or plastic joined together at one end.;Tweezers PIVOT,strips COMPONENT,metal MATERIAL,plastic MATERIAL
+any of various small metal instruments that are usually held between the thumb and index finger, are used for plucking, holding, or manipulating, and consist of two legs joined at one end.;small SIZE,metal MATERIAL,instruments CONTEXT,plucking TASK,holding TASK,manipulating TASK
+a tool that you use for picking up or removing very small objects.;tool CONTEXT,picking TASK,removing TASK
+small pincers or nippers for plucking out hairs, extracting splinters, picking up small objects, etc.;small SIZE,pincers PIVOT,nippers CONTEXT,plucking TASK,extracting TASK,picking TASK
+Small pincers, usually of metal, used for plucking or handling small objects.;Small SIZE,pincers PIVOT,metal MATERIAL,plucking TASK
+A small instrument like a pair of pincers for plucking out hairs and picking up small objects.;small SIZE,instrument CONTEXT,pincers CONTEXT,plucking TASK,picking TASK
+A vase ( or ) is an open container.;vase PIVOT,container CONTEXT
+An upright open container used mainly for displaying fresh, dried, or artificial flowers.;container CONTEXT
+an open jar of glass or porcelain used as an ornament or to hold flowers.;jar CONTEXT,glass MATERIAL,porcelain MATERIAL,hold TASK
+A vase is a jar, usually made of glass or pottery, used for holding cut flowers or as an ornament.;vase PIVOT,jar CONTEXT,glass MATERIAL,holding TASK
+a usually round vessel of greater depth than width used chiefly as an ornament or for holding flowers.;round GEOMETRY,vessel CONTEXT,holding TASK
+a container for cut flowers.;container CONTEXT
+a vessel, as of glass, porcelain, earthenware, or metal, usually higher than it is wide, used chiefly to hold cut flowers or for decoration.;vessel CONTEXT,glass MATERIAL,porcelain MATERIAL,metal MATERIAL,hold TASK
+An open container, as of glass or porcelain, used for holding flowers or for ornamentation.;container CONTEXT,glass MATERIAL,porcelain MATERIAL,holding TASK
+A decorative container without handles, typically made of glass or china and used as an ornament or for displaying cut flowers.;container CONTEXT,glass MATERIAL,china MATERIAL
+A wallet is a small, flat case or pouch that can be used to carry such small personal items as paper currency, credit cards, and identification documents (driver's license, identification card, club card, etc.), photographs, transit pass, business cards and other paper or laminated cards.;wallet PIVOT,small SIZE,flat GEOMETRY,carry TASK
+Wallets are generally made of leather or fabrics, and they are usually pocket-sized and foldable.;Wallets PIVOT,leather MATERIAL,fabrics MATERIAL,pocket SIZE
+A small case, often flat and often made of leather, for keeping money (especially paper money), credit cards, etc.;small SIZE,case PIVOT,flat GEOMETRY,leather MATERIAL
+a pocket-size case for holding papers and paper money.;pocket SIZE,case PIVOT,holding TASK
+A wallet is a small flat folded case, usually made of leather or plastic, in which you can keep banknotes and credit cards.;wallet PIVOT,small SIZE,flat GEOMETRY,leather MATERIAL,plastic MATERIAL
+a bag for carrying miscellaneous articles while traveling.;bag PIVOT,carrying TASK
+a small flat case that people keep money, bank cards, and small documents in and usually carry in their pocket or bag.;small SIZE,case PIVOT,flat GEOMETRY,carry TASK
+a flat, folding pocketbook, especially one large enough to hold paper money, credit cards, driver's license, etc., and sometimes having a compartment for coins.;flat GEOMETRY,pocketbook PIVOT,large SIZE,hold TASK
+A flat pocket-sized folding case, usually made of leather, for holding paper money, cards, or photographs, a billfold.;flat GEOMETRY,pocket SIZE,case PIVOT,leather MATERIAL,holding TASK
+A pocket-sized flat folding case for holding money and plastic cards.;pocket SIZE,flat GEOMETRY,holding TASK,plastic MATERIAL
+A walnut is the nut of any tree of the genus "Juglans" (family Juglandaceae), particularly the Persian or English walnut, "Juglans regia".;walnut PIVOT,nut CONTEXT
+nut of any of various walnut trees having a wrinkled two-lobed seed with a hard shell.;nut CONTEXT,walnut PIVOT,hard HARDNESS,shell COMPONENT
+Walnuts are edible nuts which have a wrinkled shape and a hard round shell that is light brown in colour.;Walnuts PIVOT,hard HARDNESS,round GEOMETRY,shell COMPONENT,brown COLOR
+any of several deciduous trees of the genus Juglans, having pinnately compound leaves and fruits with a rounded sticky husk that encloses an edible seed with a hard shell.;rounded GEOMETRY,sticky TEXTURE,hard HARDNESS,shell COMPONENT
+The large wrinkled edible seed of a deciduous tree, consisting of two halves contained within a hard shell which is enclosed in a green fruit.;large SIZE,hard HARDNESS,shell COMPONENT
+A wine bottle is a bottle, generally a glass bottle, that is used for holding wine.;wine CONTEXT,bottle PIVOT,glass MATERIAL,holding TASK
+Wine bottles are produced, however, in a variety of volumes and shapes.;Wine CONTEXT,bottles PIVOT
+A tall bottle with a long neck, normally made of dark or clear glass, for holding and serving wine.;bottle PIVOT,long SIZE,neck COMPONENT,glass MATERIAL,holding TASK
+A glass bottle for wine, the standard size holding 75 cl or 262/3 fl. oz.;glass MATERIAL,bottle PIVOT,holding TASK
+A wine glass is a type of glass that is used to drink and taste wine.;wine CONTEXT,glass PIVOT,drink TASK
+Most wine glasses are stemware, that is they are goblets composed of three parts: the bowl, stem, and foot.;wine CONTEXT,glasses PIVOT,goblets CONTEXT,stem COMPONENT
+A wine glass is a glass, usually with a narrow stem, which you use for drinking wine.;wine CONTEXT,glass PIVOT,narrow GEOMETRY,stem COMPONENT,drinking TASK
+a glass with a thin stem and a base, used for drinking wine.;glass PIVOT,thin GEOMETRY,stem COMPONENT,base COMPONENT,drinking TASK
+A glass, usually with a stem, from which wine is drunk.;glass PIVOT,stem COMPONENT
+A glass with a stem and foot, used for drinking wine.;glass PIVOT,stem COMPONENT,foot COMPONENT,drinking TASK
+The chestnuts are the deciduous trees and shrubs in the genus Castanea, in the beech family Fagaceae.;chestnuts PIVOT
+a large smooth red-brown nut that you can eat.;large SIZE,smooth TEXTURE,red COLOR,brown COLOR,nut CONTEXT,eat TASK
+A glossy hard brown edible nut which develops within a bristly case and which may be roasted and eaten.;glossy TEXTURE,hard HARDNESS,brown COLOR,nut CONTEXT,eaten TASK
+A whisk is a cooking utensil which can be used to blend ingredients smooth or to incorporate air into a mixture, in a process known as "whisking" or "whipping".;whisk PIVOT,cooking TASK,utensil CONTEXT,blend TASK
+Most whisks consist of a long, narrow handle with a series of wire loops joined at the end.;whisks PIVOT,long SIZE,narrow GEOMETRY,handle COMPONENT,wire COMPONENT
+A whisk is a kitchen tool used for whisking eggs or cream.;whisk PIVOT,tool CONTEXT,whisking TASK
+a quick light brushing or whipping motion.;brushing TASK,whipping TASK
+a kitchen tool that consists of several long closed curves of wire joined to a handle that you quickly move through a soft food to put air into it.;tool CONTEXT,long SIZE,wire COMPONENT,handle COMPONENT,move TASK

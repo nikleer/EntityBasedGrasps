@@ -1,0 +1,258 @@
+text;label
+An acorn is a small, hard-shelled nut with a pointed top and flattish bottom.;acorn PIVOT,small SIZE,hard HARDNESS,shelled COMPONENT,nut CONTEXT,flattish GEOMETRY,bottom COMPONENT
+Acorns are generally harvested and eaten by wildlife, but can also be utilized for human consumption in various forms, such as flour or roasted snacks.;Acorns PIVOT,eaten TASK
+The most common physical attributes of an apple include a round shape, a red or green color, a smooth and shiny skin, and a crisp and juicy texture.;apple PIVOT,round GEOMETRY,red COLOR,green COLOR,smooth TEXTURE,skin COMPONENT
+Apples are commonly used for eating raw or cooked in various dishes, as well as for making juice and cider.;Apples PIVOT,eating TASK
+An apricot is a small, round fruit with a fuzzy exterior.;apricot PIVOT,small SIZE,round GEOMETRY,fruit CONTEXT,fuzzy TEXTURE
+It has a golden-orange color and a soft, juicy interior.;golden COLOR,orange COLOR,soft HARDNESS
+Apricots are commonly used in baking, as a topping for yogurt or cereal, and in jams and preserves.;Apricots PIVOT
+An avocado is a pear-shaped fruit with green, bumpy skin and contains a large, light green pit.;avocado PIVOT,fruit CONTEXT,green COLOR,bumpy TEXTURE,skin COMPONENT,large SIZE,pit COMPONENT
+A ballpoint pen typically has a cylindrical shape with a retractable ballpoint tip.;ballpoint CONTEXT,pen PIVOT,cylindrical GEOMETRY,tip COMPONENT
+It is commonly made from plastic or metal with a clip for attaching to a pocket or notebook.;plastic MATERIAL,metal MATERIAL,clip COMPONENT,attaching TASK
+It uses ink that is dispensed through a small ball in the tip, allowing for smooth writing on various surfaces.;small SIZE,ball COMPONENT,tip COMPONENT,writing TASK
+Ballpoint pens are used for writing, note-taking, signing documents, and many other tasks that require a reliable writing instrument.;Ballpoint CONTEXT,pens PIVOT,writing TASK,signing TASK
+A banana typically has a curved yellow skin and a soft, sweet fruit inside.;banana PIVOT,curved GEOMETRY,yellow COLOR,soft HARDNESS,fruit CONTEXT
+It can be eaten fresh or used in cooking and baking.;eaten TASK
+Bananas are a good source of fiber, vitamins, and minerals, and are known for their potassium content which may help regulate blood pressure.;Bananas PIVOT
+The most common physical attributes of a banknote include its size, color, material, design, watermark, security thread, and serial number.;banknote PIVOT
+Banknotes are used as a form of currency to facilitate transactions and as a store of value.;Banknotes PIVOT
+A barrette is a small hair accessory that is typically made of metal, plastic, or other materials and used to hold hair in place.;barrette PIVOT,small SIZE,accessory CONTEXT,metal MATERIAL,plastic MATERIAL,hold TASK
+It usually has a clasp or clip on one end that can be fastened onto the hair.;clasp COMPONENT,clip COMPONENT,fastened TASK
+Barrettes come in various shapes, sizes, and designs and can be used for functional or decorative purposes.;Barrettes PIVOT
+The most common physical attributes of a barrette include a flat surface for holding hair, a clasp or clip for attaching to hair, and a decorative or embellished surface for style.;barrette PIVOT,flat GEOMETRY,surface COMPONENT,holding TASK,clasp COMPONENT,clip COMPONENT,attaching TASK
+The most common physical attributes of a battery are its size and shape, voltage capacity, and chemistry.;battery PIVOT
+Batteries are used to power various electrical devices such as smartphones, laptops, toys, and household appliances.;Batteries PIVOT
+A bead is a small, round object typically made of various materials such as glass, metal, or plastic.;bead PIVOT,small SIZE,round GEOMETRY,glass MATERIAL,metal MATERIAL,plastic MATERIAL
+Beads often have a hole through the center and can be used in various ways, such as for jewelry-making, embroidery, or as decorative accents.;Beads PIVOT
+Some beads may have a smooth surface, while others may be textured, faceted, or have engraved designs.;beads PIVOT,smooth TEXTURE,faceted TEXTURE
+The physical attributes of a bead depend on its material and intended use.;bead PIVOT
+Beer bottles are typically made of glass and have a tapered neck and a narrow opening.;Beer CONTEXT,bottles PIVOT,glass MATERIAL,tapered GEOMETRY,neck COMPONENT,narrow GEOMETRY,opening COMPONENT
+Beer bottles are primarily used to hold and store beer, typically for retail sales in liquor stores or servings in bars and restaurants.;Beer CONTEXT,bottles PIVOT,hold TASK
+They also provide a means for consumers to transport and enjoy beer at home or on-the-go.;transport TASK
+The most common physical attributes of a billiard ball are its size, weight, and spherical shape.;billiard CONTEXT,ball PIVOT,spherical GEOMETRY
+Billiard balls are made of materials such as phenolic resin, polyester, or ivory;Billiard CONTEXT,balls PIVOT,resin MATERIAL,polyester MATERIAL,ivory MATERIAL
+The most common physical attributes of a book are its pages bound together by a cover.;book PIVOT,pages COMPONENT,cover COMPONENT
+The pages may contain text, images, or both.;pages COMPONENT,text COMPONENT,images COMPONENT
+The book can be used for entertainment, education, reference, or as a source of information.;book PIVOT
+A bookmark is a thin, rectangular piece of paper or card, often with decorative designs or images, used to mark a reader's place in a book or other printed materials.;bookmark PIVOT,thin GEOMETRY,rectangular GEOMETRY,piece CONTEXT,paper MATERIAL,card CONTEXT,mark TASK
+The most common physical attributes of a bottle are a cylindrical, elongated shape with a neck and a narrow opening, made of glass or plastic materials.;bottle PIVOT,cylindrical GEOMETRY,elongated GEOMETRY,neck COMPONENT,narrow GEOMETRY,opening COMPONENT,glass MATERIAL,plastic MATERIAL
+Bottles are used to store and transport liquids, such as water, beverages, medicines, and cleaning products.;Bottles PIVOT,transport TASK
+They can also be used for decorative purposes or as a container for homemade products, such as perfumes or oils.;container CONTEXT
+A bowl is a round or curved container with a flat base and open top.;bowl PIVOT,round GEOMETRY,curved GEOMETRY,container CONTEXT,flat GEOMETRY,base COMPONENT
+It can be made of various materials such as ceramic, glass, metal or plastic.;ceramic MATERIAL,glass MATERIAL,metal MATERIAL,plastic MATERIAL
+Bowls are commonly used for holding and serving food, and can range in size from small to large.;Bowls PIVOT,holding TASK,small SIZE,large SIZE
+The most common physical attributes of a bowl include its size, shape, material, and depth.;bowl PIVOT
+A box is typically a rectangular container with straight sides and a lid or flaps, made of cardboard, plastic, or wood.;box PIVOT,rectangular GEOMETRY,container CONTEXT,straight GEOMETRY,sides COMPONENT,lid COMPONENT,cardboard MATERIAL,plastic MATERIAL,wood MATERIAL
+The most common physical attributes of a box include its size, shape, material, and durability.;box PIVOT
+The most common physical attributes of a bun are a round shaped head, long ears, short fur, and a small tail.;bun PIVOT,round GEOMETRY,small SIZE
+Buns are commonly kept as pets, used in research, and consumed as food.;Buns PIVOT
+A candle is a cylindrical piece of wax with a wick in the center.;candle PIVOT,cylindrical GEOMETRY,wax MATERIAL,wick COMPONENT
+A chalice is typically a goblet-shaped vessel made of metal, glass, or ceramic material.;chalice PIVOT,goblet CONTEXT,vessel CONTEXT,metal MATERIAL,glass MATERIAL,ceramic MATERIAL
+It usually has a stem and a base, and a bowl-like shape at the top which is often ornately decorated.;stem COMPONENT
+Chalices are commonly used in religious ceremonies such as communion, where they are filled with wine or other sacred beverages.;Chalices PIVOT
+Chalk is a soft, white sedimentary rock made up of tiny marine organisms, primarily made up of calcium carbonate.;Chalk PIVOT,soft HARDNESS,white COLOR,rock MATERIAL,tiny SIZE
+It is commonly used in classrooms as a writing tool, as well as in sports such as gymnastics and weightlifting to improve grip and reduce slipping.;writing TASK,tool CONTEXT
+Chalk is also used in construction for making mortar and as a building material.;Chalk PIVOT
+Its physical attributes include low hardness, a powdery texture, a white color, and a tendency to crumble easily.;powdery TEXTURE,white COLOR
+A chess piece usually has a rounded top, a wide base, and a slender middle.;chess CONTEXT,piece PIVOT,rounded GEOMETRY,top COMPONENT,wide GEOMETRY,base COMPONENT,slender GEOMETRY
+It is commonly made of wood or plastic.;wood MATERIAL,plastic MATERIAL
+The pieces differ in their shape and size and are used to move across the board in different ways, based on their type.;pieces PIVOT,move TASK
+The most common pieces are the pawn, rook, knight, bishop, queen, and king, with each having their respective abilities and roles in the game.;pieces PIVOT
+A chocolate bar is typically rectangular in shape, with a smooth surface and a glossy appearance.;chocolate CONTEXT,bar PIVOT,rectangular GEOMETRY,smooth TEXTURE,glossy TEXTURE
+Chocolate bars come in various sizes and shapes, and they are commonly used for snacking, baking, or as a gift.;Chocolate CONTEXT,bars PIVOT
+A cigarette typically measures 70mm-120 mm in length and 6-8 mm in diameter.;cigarette PIVOT
+It contains finely cut tobacco rolled in thin paper with a filter on one end.;thin GEOMETRY,paper MATERIAL
+Clementines are small, round citrus fruits with a thin, smooth, and shiny orange peel that is easy to peel and separate into segments.;Clementines PIVOT,small SIZE,round GEOMETRY,fruits CONTEXT,thin GEOMETRY,smooth TEXTURE,orange COLOR,peel COMPONENT
+The most common physical attributes of a coin are its circular shape, flat surfaces, and ridged edges.;coin PIVOT,circular GEOMETRY,flat GEOMETRY
+Coins are typically made of metal and come in various sizes and denominations.;Coins PIVOT,metal MATERIAL
+A comb is a small, handheld tool typically made of plastic, metal, or wood and is characterized by a series of evenly spaced teeth or ridges used for grooming, styling, and untangling hair.;comb PIVOT,small SIZE,tool CONTEXT,plastic MATERIAL,metal MATERIAL,wood MATERIAL,grooming TASK,styling TASK,untangling TASK
+It is commonly used to detangle knotted hair, create hairstyle, and remove lice or other debris from the hair.;detangle TASK
+Combs are often used in hair salons and at home as part of daily grooming routines.;Combs PIVOT,grooming TASK
+A compact disk (CD) is a flat, circular, plastic disc measuring 12 cm in diameter and approximately 1.2 mm in thickness.;CD PIVOT,flat GEOMETRY,circular GEOMETRY,disc CONTEXT
+The CD is typically used to store and play audio, software, and data files, and is compatible with most computers, CD players, and gaming consoles.;CD PIVOT
+The most common physical attributes of a credit card include a plastic material, embossed or printed cardholder information, a magnetic stripe or chip for processing transactions, and a unique card number.;credit CONTEXT,card PIVOT,plastic MATERIAL
+A cucumber is a long, cylindrical vegetable with smooth, dark green skin and a mild, refreshing taste.;cucumber PIVOT,long SIZE,cylindrical GEOMETRY,vegetable CONTEXT,smooth TEXTURE,green COLOR,skin COMPONENT
+A cup is a container with a handle, a round opening at the top, and a cylindrical or conical shape.;cup PIVOT,container CONTEXT,handle COMPONENT,round GEOMETRY,opening COMPONENT,cylindrical GEOMETRY,conical GEOMETRY
+It is commonly used for drinking beverages such as water, tea, coffee, and soda.;drinking TASK
+The size, shape, and material of the cup may vary, but it typically holds around 8-12 ounces of liquid and is made of glass, ceramic, plastic, or metal.;cup PIVOT,glass MATERIAL,ceramic MATERIAL,plastic MATERIAL,metal MATERIAL
+A die is a small, cube-shaped object typically made of plastic or metal.;die PIVOT,small SIZE,cube GEOMETRY,plastic MATERIAL,metal MATERIAL
+A die is commonly used in games of chance, such as craps, Yahtzee, and board games, to generate a random number.;die PIVOT
+A typical donut has a circular shape with a hole in the center and a fluffy texture.;donut PIVOT,circular GEOMETRY
+Donuts are a popular breakfast food or snack and are commonly paired with coffee.;Donuts PIVOT
+An earring typically consists of a small piece of jewelry that is inserted into the earlobe or another part of the ear.;earring PIVOT,small SIZE,piece CONTEXT,jewelry CONTEXT
+They are often made of metal, such as gold or silver, and may include gemstones or other decorative elements.;metal MATERIAL,gold MATERIAL,silver MATERIAL
+Earrings are commonly worn as a fashion accessory, to express individual style and enhance one's appearance.;Earrings PIVOT,accessory CONTEXT
+Egg is typically oval-shaped with a hard shell that protects the yolk and the white.;Egg PIVOT,oval GEOMETRY,hard HARDNESS,shell COMPONENT,white COLOR
+Eggs are used in various recipes like scrambled eggs, omelets, cakes, and custards;Eggs PIVOT
+An envelope is typically rectangular in shape, made of paper or other materials, and has a flap that can be sealed.;envelope PIVOT,rectangular GEOMETRY,paper MATERIAL
+It is used to enclose letters, documents, and other flat items for mailing or storage.;flat GEOMETRY
+Envelopes often have a standard size to accommodate standard-sized papers, such as A4 or 8.5 x 11 inches.;Envelopes PIVOT
+A flashlight typically has a cylindrical body with a LED bulb, a button to turn it on and off, and a battery compartment.;flashlight PIVOT,cylindrical GEOMETRY,bulb COMPONENT,button COMPONENT
+The most common physical attributes of a flask are a small, flat, and curved design with a screw-top lid and a capacity of 4 to 8 ounces.;flask PIVOT,small SIZE,flat GEOMETRY,curved GEOMETRY,lid COMPONENT
+It is typically made of stainless steel or metal with a glass or leather covering.;steel MATERIAL,metal MATERIAL,glass MATERIAL,leather MATERIAL
+The flask is commonly used for carrying and consuming alcohol discreetly in public places.;flask PIVOT,carrying TASK
+A fork is a utensil typically made of metal with slender prongs that curve inward and a handle for grasping.;fork PIVOT,metal MATERIAL,slender GEOMETRY,handle COMPONENT
+Its most common use is for eating and transferring food from a plate to one's mouth.;eating TASK,transferring TASK
+Additionally, forks can be used for cooking and serving food, and in some cases, as a tool for eating certain types of seafood.;forks PIVOT,cooking TASK,tool CONTEXT,eating TASK
+A fountain pen typically has a pointed nib and a refillable ink reservoir.;fountain CONTEXT,pen PIVOT,nib COMPONENT
+It is often made of metal or plastic, with a cylindrical barrel and a cap.;metal MATERIAL,plastic MATERIAL,cylindrical GEOMETRY,barrel COMPONENT,cap COMPONENT
+Fountain pens are commonly used for writing, drawing, calligraphy, and journaling.;Fountain CONTEXT,pens PIVOT,writing TASK,drawing TASK
+They offer a smooth writing experience and can create a variety of line widths and effects.;writing TASK
+A frisbee pen typically has a round, flat body with a curved edge, and is made of plastic material.;frisbee PIVOT,round GEOMETRY,flat GEOMETRY,curved GEOMETRY,plastic MATERIAL
+It is designed for throwing and catching like a frisbee, and usually used for recreational purposes such as games and exercise.;throwing TASK
+A gel pen typically has a plastic barrel with a rubber grip, and uses water-based ink that flows smoothly onto paper.;gel CONTEXT,pen PIVOT,plastic MATERIAL,rubber MATERIAL
+It is commonly used for writing, drawing, and coloring due to its vibrant and opaque pigments.;writing TASK,drawing TASK,coloring TASK
+Glasses are an optical device consisting of a pair of lenses mounted in a frame, typically made of plastic or metal.;Glasses PIVOT,lenses COMPONENT,frame COMPONENT,plastic MATERIAL,metal MATERIAL
+They are worn on the face to correct refractive errors in vision, such as nearsightedness, farsightedness, and astigmatism.;worn TASK
+Glasses can be prescribed by an optometrist or ophthalmologist, and are commonly used for reading, driving, and other everyday activities.;Glasses PIVOT
+A glue stick is a cylindrical object made of plastic with a twist-up mechanism that contains a solid, semi-transparent adhesive substance.;glue CONTEXT,stick PIVOT,cylindrical GEOMETRY,plastic MATERIAL
+The adhesive in a glue stick is non-toxic and can be easily applied without making a mess, making it a popular choice for both home and office use.;glue CONTEXT,stick PIVOT
+A golf ball is a small, spherical object typically made from rubber and plastic materials with a diameter of 1.68 inches and a weight of 1.62 ounces.;golf CONTEXT,ball PIVOT,small SIZE,spherical GEOMETRY,rubber MATERIAL,plastic MATERIAL
+It has dimples on its surface to reduce air resistance and increase flight distance.;dimples TEXTURE
+Golf balls are used in the sport of golf and are designed to be hit with golf clubs to travel long distances and reach specific targets on a golf course.;Golf CONTEXT,balls PIVOT
+A hairbrush typically has a handle and a flat, rectangular head with bristles made of plastic, nylon, or natural materials like boar's hair.;hairbrush PIVOT,handle COMPONENT,flat GEOMETRY,rectangular GEOMETRY,head COMPONENT,bristles COMPONENT,plastic MATERIAL,nylon MATERIAL
+It is commonly used for detangling, smoothing, and shaping hair, as well as distributing natural oils and styling products.;detangling TASK,smoothing TASK,shaping TASK
+A hammer is a handheld tool that typically consists of a weighted head attached to a handle.;hammer PIVOT,tool CONTEXT,head COMPONENT,handle COMPONENT
+The head may be made of steel, wood, or other materials and is designed to strike objects for various purposes such as driving nails into wood or breaking concrete.;head COMPONENT,steel MATERIAL,wood MATERIAL,strike TASK,breaking TASK
+The handle can vary in length and may be made of materials such as wood, plastic, or rubber to provide a comfortable grip for the user.;handle COMPONENT,wood MATERIAL,plastic MATERIAL,rubber MATERIAL
+Hammers are used in a wide range of applications ranging from construction and carpentry to metalworking and demolition work.;Hammers PIVOT
+A handfan consists of a handheld, often flat or folded, object made of lightweight materials such as paper, fabric or plastic.;handfan PIVOT,flat GEOMETRY,lightweight WEIGHT,paper MATERIAL,fabric MATERIAL,plastic MATERIAL
+A jar is a cylindrical-shaped container with a narrow neck and typically made out of glass or ceramic materials.;jar PIVOT,cylindrical GEOMETRY,container CONTEXT,narrow GEOMETRY,neck COMPONENT,glass MATERIAL,ceramic MATERIAL
+It has a lid or a cap to seal the contents inside.;lid COMPONENT,cap COMPONENT
+Jars can vary in size and shape, but they are often used for storing and preserving food items such as jams, pickles, and sauces.;Jars PIVOT
+A jug is a tall container with a narrow neck and a handle for pouring liquid.;jug PIVOT,container CONTEXT,narrow GEOMETRY,neck COMPONENT,handle COMPONENT,pouring TASK
+It is typically made of ceramic, glass, or plastic.;ceramic MATERIAL,glass MATERIAL,plastic MATERIAL
+Jugs are commonly used for storing and serving beverages such as water, juice, milk, and wine.;Jugs PIVOT
+Some jugs also have measurement markings for precise pouring and ingredient mixing.;jugs PIVOT,pouring TASK
+A key is a small metal object typically made of steel or brass, with a series of ridges or bumps cut into its flat edge.;key PIVOT,small SIZE,metal MATERIAL,steel MATERIAL,brass MATERIAL
+It is used to operate a locking mechanism by turning and pushing the ridges or bumps into the lock's internal pins or tumblers.;locking TASK,turning TASK
+The most common physical attributes of a kiwifruit are a brown, fuzzy exterior with bright green flesh inside, small black seeds, and a slightly tart taste.;kiwifruit PIVOT,brown COLOR,fuzzy TEXTURE,small SIZE,black COLOR,seeds COMPONENT
+A knife typically has a sharp blade made of metal and a handle made of a hard material like wood or plastic.;knife PIVOT,blade COMPONENT,metal MATERIAL,handle COMPONENT,wood MATERIAL,plastic MATERIAL
+The blade is used for cutting, slicing, and chopping meat, vegetables, and other food items.;blade COMPONENT,cutting TASK,slicing TASK,chopping TASK
+It can also be used for cutting through rope, cardboard, and other materials.;cutting TASK
+The handle provides a comfortable grip for safe and precise cutting.;handle COMPONENT,cutting TASK
+A ladle is a long-handled spoon-shaped utensil used for scooping and serving liquids, sauce and soups.;ladle PIVOT,long SIZE,handled COMPONENT,utensil CONTEXT,scooping TASK,serving TASK
+Typically made of metal or plastic, a ladle has a deep bowl or cup-like shape, with a long handle to allow easy access to deep containers.;metal MATERIAL,plastic MATERIAL,ladle PIVOT,bowl COMPONENT,long SIZE,handle COMPONENT
+The bowl is designed to hold a specific amount of liquid and is often rounded, with a spout on one end to pour liquids without making a mess.;bowl PIVOT,hold TASK,round GEOMETRY
+Some ladles also have a curved lip on the front, which helps to hold the liquid inside the bowl without spilling.;ladles PIVOT,curved GEOMETRY,lip COMPONENT
+Common uses for a ladle include serving stews, soups, sauces, boiled vegetables, and even drinks such as punch or hot cider.;ladle PIVOT,serving TASK
+Lemons are small, oval-shaped citrus fruit with a yellow outer skin and acidic flesh.;Lemon PIVOT,small SIZE,oval GEOMETRY,fruit CONTEXT,yellow COLOR,skin COMPONENT
+A lollipop is a small, round candy on a stick.;lollipop PIVOT,small SIZE,round GEOMETRY,candy CONTEXT,stick COMPONENT
+It typically has a hard, smooth surface and comes in a variety of colors and flavors.;hard HARDNESS,smooth TEXTURE
+The stick is used to hold the candy while it is being eaten.;stick COMPONENT,hold TASK,candy CONTEXT,eaten TASK
+Lollipops are often given as treats or as party favors and can be found in many stores and candy shops.;Lollipops PIVOT
+The most common physical attributes of marble are its smooth, polished surface and distinctive veining patterns.;marble PIVOT,smooth TEXTURE
+It is a metamorphic rock composed mainly of calcium carbonate, which gives it a bright white color, but it can also have shades of gray, beige, pink, or green.;rock MATERIAL,white COLOR,gray COLOR,beige COLOR,pink COLOR,green COLOR
+Marble is commonly used in architecture and sculpture due to its elegant appearance and durability.;Marble PIVOT
+A marker pen typically has a cylindrical body made of plastic, a felt or porous tip at one end, and a cap to protect the tip when not in use.;marker CONTEXT,pen PIVOT,cylindrical GEOMETRY,plastic MATERIAL,felt MATERIAL,tip COMPONENT,cap COMPONENT
+It is commonly used for writing or drawing on surfaces such as paper, cardboard, and whiteboards.;writing TASK,drawing TASK
+The ink in a marker pen is usually quick-drying, water-resistant, and fade-resistant.;marker CONTEXT,pen PIVOT
+The most common physical attributes of a mobile phone include a touch screen display, camera, microphone, speaker, battery, and various ports for charging and data transfer.;mobile CONTEXT,phone PIVOT,display COMPONENT
+A mousepad is typically a flat surface made of rubber, foam, or fabric that provides a smooth and uniform surface for a computer mouse to move on.;mousepad PIVOT,flat GEOMETRY,rubber MATERIAL,foam MATERIAL,fabric MATERIAL,smooth TEXTURE
+A mug is typically a cylindrical vessel with a handle, designed for holding hot or cold beverages.;mug PIVOT,cylindrical GEOMETRY,vessel CONTEXT,handle COMPONENT,holding TASK
+It is usually made of ceramic or porcelain, but can also be made of glass, metal, or plastic.;ceramic MATERIAL,porcelain MATERIAL,glass MATERIAL,metal MATERIAL,plastic MATERIAL
+Mugs are often decorated with designs, patterns, or logos, and range in size from small espresso cups to large soup mugs.;Mugs PIVOT,small SIZE,large SIZE
+They are commonly used for drinking coffee, tea, hot chocolate, and other warm beverages, as well as for soup or other liquids.;drinking TASK
+The most common physical attributes of newspapers are large sheets of paper printed with ink, folded into smaller sections, making it an easy and portable format for reading news.;newspapers PIVOT,large SIZE,sheets CONTEXT,paper MATERIAL,reading TASK
+A notepad typically has a rectangular shape, bound together at the top, with pages made of paper or card stock.;notepad PIVOT,rectangular GEOMETRY,pages COMPONENT,paper MATERIAL
+It is commonly used for note-taking, writing, drawing, and list-making.;writing TASK,drawing TASK
+Onions have a round, bulbous shape and papery, layered skin.;Onions PIVOT,round GEOMETRY,bulbous GEOMETRY,papery TEXTURE,skin COMPONENT
+They are typically white, yellow, or red in color, and have a pungent, slightly sweet taste.;white COLOR,yellow COLOR,red COLOR
+Onions are often used in cooking to add flavor to dishes such as soups, stews, and stir-fries.;Onions PIVOT
+A paintbrush typically consists of a long, slender handle and a bristle or synthetic fiber tip.;paintbrush PIVOT,long SIZE,slender GEOMETRY,handle COMPONENT,bristle COMPONENT,tip COMPONENT
+The tip can range in size from very small to very large and can be round, flat, or angled.;tip COMPONENT,small SIZE,large SIZE,round GEOMETRY,flat GEOMETRY
+The bristles may be natural or synthetic, and the type and quality of bristles will affect the way the brush holds and distributes paint.;bristles COMPONENT,brush PIVOT
+Brushes with smaller tips are commonly used for detailed work, such as painting fine lines and small areas, while larger brushes are used for broader strokes and covering larger areas.;Brushes PIVOT,tips COMPONENT,painting TASK
+Brushes with angled tips are useful for creating precision lines and angles, while flat brushes are used for more even coverage.;Brushes PIVOT,tips COMPONENT,flat GEOMETRY
+Overall, a paintbrush is a versatile tool that can be used in a wide range of applications, including painting walls, furniture, and artwork.;paintbrush PIVOT,tool CONTEXT,painting TASK
+A pan is a flat-bottomed cooking vessel with straight sides and a handle.;pan PIVOT,flat GEOMETRY,cooking TASK,vessel CONTEXT,straight GEOMETRY,sides COMPONENT,handle COMPONENT
+It is typically made of metal (such as stainless steel or aluminum) or cast iron and can come in a variety of sizes.;metal MATERIAL,steel MATERIAL,aluminum MATERIAL,iron MATERIAL
+The most common pan sizes are 8, 10, and 12 inches in diameter.;pan PIVOT
+Pans are used for cooking a wide range of foods, including frying eggs, sauteing vegetables, searing meat, and making sauces.;Pans PIVOT,cooking TASK
+Pans with non-stick coatings are popular for cooking delicate foods that can easily stick to the bottom of the pan.;Pans PIVOT,cooking TASK
+A peach is a round fruit with a fuzzy, velvety skin that can range in color from yellow to pink to reddish-orange.;peach PIVOT,round GEOMETRY,fruit CONTEXT,fuzzy TEXTURE,velvety TEXTURE,skin COMPONENT,yellow COLOR,pink COLOR,reddish COLOR,orange COLOR
+Peaches are commonly eaten fresh, but also used in desserts, jams, and other culinary applications.;Peaches PIVOT,eaten TASK
+A pear is a fruit with a rounded bottom and a narrower top, a sweet, juicy, grainy-textured flesh, and a thin, edible skin.;pear PIVOT,fruit CONTEXT,rounded GEOMETRY,thin GEOMETRY,skin COMPONENT
+They are often eaten fresh, but can also be used in cooking, baking, and making jams, jellies, and juices.;eaten TASK
+A pencil is a cylindrical writing instrument typically made of wood and filled with graphite or charcoal.;pencil PIVOT,cylindrical GEOMETRY,writing TASK,instrument CONTEXT,wood MATERIAL
+It is characterized by a pointed tip and a flat eraser on the opposite end.;tip COMPONENT,flat GEOMETRY,eraser COMPONENT
+Pencils are often used for writing, drawing, sketching, and marking.;Pencils PIVOT,writing TASK,drawing TASK,sketching TASK,marking TASK
+They are lightweight, portable, and widely available in various lead grades for different levels of softness or hardness.;lightweight WEIGHT
+Pills are small, solid, cylindrical or oval-shaped objects that are typically coated in a smooth outer layer.;Pills PIVOT,small SIZE,solid HARDNESS,cylindrical GEOMETRY,oval GEOMETRY,smooth TEXTURE
+Pills are commonly used to treat a wide range of conditions, from pain and fever to hypertension and depression.;Pills PIVOT
+The most common physical attributes of pliers include a pair of metallic jaws that can be opened and closed by a pivot joint.;pliers PIVOT,metallic MATERIAL,jaws COMPONENT,opened TASK,closed TASK
+Pliers may have flat, rounded, or serrated jaws depending on their intended use.;Pliers PIVOT,flat GEOMETRY,rounded GEOMETRY,jaws COMPONENT
+The handles of pliers can be insulated with rubber or plastic to provide a better grip and prevent electrical shock.;handles COMPONENT,pliers PIVOT,rubber MATERIAL,plastic MATERIAL
+Pliers are commonly used for gripping, cutting, bending, and twisting objects such as wires, nails, bolts, and pipes.;Pliers PIVOT,gripping TASK,cutting TASK,bending TASK,twisting TASK
+A plate is a flat, circular or oval-shaped object made of ceramic, glass, or metal that is typically used to serve food.;plate PIVOT,flat GEOMETRY,circular GEOMETRY,oval GEOMETRY,ceramic MATERIAL,glass MATERIAL,metal MATERIAL
+Plates can vary in size from small appetizer plates to large dinner plates.;Plates PIVOT,small SIZE,large SIZE
+A playing card typically has a rectangular shape, measures 2.5 x 3.5 inches, and are uniformly coated and printed on a paperboard stock.;playing CONTEXT,card PIVOT,rectangular GEOMETRY
+Playing cards are commonly used in a variety of games, such as poker, blackjack, and bridge.;Playing CONTEXT,cards PIVOT
+The most common physical attributes of a potato include a round or oval shape, brown or red skin, and white or yellow flesh.;potato PIVOT,round GEOMETRY,oval GEOMETRY,brown COLOR,red COLOR,skin COMPONENT
+Potatoes are typically used for cooking in a variety of dishes such as mashed potatoes, French fries, and potato salad.;Potatoes PIVOT
+A potato chip is a thin, crispy slice of potato that is most commonly fried or baked.;potato CONTEXT,chip PIVOT,thin GEOMETRY,crispy TEXTURE,slice CONTEXT
+It typically has a slightly curved shape with a smooth, golden surface and a crunchy texture.;curved GEOMETRY,smooth TEXTURE,golden COLOR,crunchy TEXTURE
+Potato chips are commonly used as a snack, frequently served with dips or toppings, and they can also be used as a side dish or garnish for some meals.;Potato CONTEXT,chips PIVOT
+A quill typically has a hollow shaft made of feather or reed, with a sharpened tip and a slit at the end to hold ink.;quill PIVOT,feather CONTEXT,tip COMPONENT,hold TASK
+They are commonly used for calligraphy, writing, and drawing.;writing TASK,drawing TASK
+The most common physical attributes of a remote control include a rectangular shape, buttons for controlling functions, and an infrared transmitter.;remote PIVOT,control CONTEXT,rectangular GEOMETRY,buttons COMPONENT
+A Rubik's cube is a cube-shaped puzzle with six faces, each divided into nine small squares of different colors.;Rubik CONTEXT,cube PIVOT,small SIZE,squares COMPONENT
+A scalpel is a small, sharp surgical knife with a handle made of either metal or plastic.;scalpel PIVOT,small SIZE,knife CONTEXT,handle COMPONENT,metal MATERIAL,plastic MATERIAL
+The blade is typically made of stainless steel, with a pointed tip and sharp, curved edges.;blade COMPONENT,steel MATERIAL,tip COMPONENT
+Scalpels are commonly used in surgical procedures, such as making incisions, excising tissue, and removing organs.;Scalpels PIVOT
+They are also used in autopsy procedures, dissections, and some types of artistic and crafting work that require precision cutting.;cutting TASK
+Scissors typically have two blades made of metal connected by a pivot, with handles on either end for holding and applying force.;Scissors PIVOT,blades COMPONENT,metal MATERIAL,handles COMPONENT,holding TASK
+They are commonly used for cutting various materials such as paper, fabric, and hair.;cutting TASK,paper MATERIAL,fabric MATERIAL
+The blades can be straight or curved for specific cutting purposes.;blades COMPONENT,straight GEOMETRY,curved GEOMETRY,cutting TASK
+Some scissors have serrated edges for cutting through tough materials.;scissors PIVOT,cutting TASK
+The size and weight of scissors can vary depending on their intended use.;scissors PIVOT
+A screw is a threaded fastener with a head, shank, and threads along its length.;screw PIVOT,head COMPONENT,shank COMPONENT
+The threads allow the screw to be twisted into a material, providing a secure connection.;screw PIVOT,twisted TASK
+Screws are commonly used in constructions as well as in machinery and appliances.;Screws PIVOT
+A screwdriver typically has a long, narrow, cylindrical metal shaft with a flat or Phillips-shaped tip at the end.;screwdriver PIVOT,long SIZE,narrow GEOMETRY,cylindrical GEOMETRY,metal MATERIAL,shaft COMPONENT,flat GEOMETRY,tip COMPONENT
+Screwdrivers are used for manually tightening or loosening screws, which are small metal or plastic fasteners commonly found in a variety of applications, such as furniture assembly, electronics repair, and construction.;Screwdrivers PIVOT,tightening TASK,loosening TASK,small SIZE,metal MATERIAL,plastic MATERIAL
+The most common physical attributes of a sheet of paper are its thin and flat structure, made from plant fibers.;sheet PIVOT,paper MATERIAL,thin GEOMETRY,flat GEOMETRY
+It is typically white or off-white in colour, and can vary in size and weight.;white COLOR
+Paper is commonly used for writing, printing, drawing and packaging in various industries and everyday life.;Paper MATERIAL
+A spatula typically has a flat, wide and thin blade made of metal or silicone with a long handle.;spatula PIVOT,flat GEOMETRY,wide GEOMETRY,thin GEOMETRY,blade COMPONENT,metal MATERIAL,long SIZE,handle COMPONENT
+It is commonly used for flipping or turning food while cooking, serving food, and scraping bowls or pans to get all the leftover bits.;flipping TASK,turning TASK,cooking TASK
+Sponges are aquatic animals that have a porous body with numerous pores and canals.;Sponges PIVOT,porous TEXTURE
+They are soft, flexible, and typically have a cylindrical or flattened shape.;soft HARDNESS,flexible MATERIAL,cylindrical GEOMETRY,flattened GEOMETRY
+Sponges are commonly used for cleaning and absorbing liquids due to their ability to hold a lot of water.;Sponges PIVOT,cleaning TASK
+A spoon is a small, concave utensil made of metal, plastic, wood or ceramic, with a handle on the end opposite the bowl.;spoon PIVOT,small SIZE,concave GEOMETRY,utensil CONTEXT,metal MATERIAL,plastic MATERIAL,wood MATERIAL,ceramic MATERIAL,handle COMPONENT,bowl COMPONENT
+It is used for scooping and transferring liquid or solid food from a container to a mouth or another container.;scooping TASK,transferring TASK
+Spoons come in various sizes and shapes for different purposes, such as a teaspoon for stirring and a soup spoon for sipping.;Spoons PIVOT,stirring TASK,sipping TASK
+A strawberry is a small, red, juicy fruit with a sweet and slightly tart taste.;strawberry PIVOT,small SIZE,red COLOR,fruit CONTEXT
+A syringe typically consists of a cylindrical body with a plunger that moves back and forth inside, allowing the user to draw in or inject a liquid through a small, hollow needle attached to the end.;syringe PIVOT,cylindrical GEOMETRY,draw TASK,inject TASK,small SIZE,needle COMPONENT
+Syringes are commonly used for administering medication or vaccines, drawing blood for testing, or injecting fluids or air into a body cavity.;Syringes PIVOT,drawing TASK,injecting TASK
+A tennis ball is typically spherical with a diameter of approximately 6.7cm and is made of a rubbery core covered by a fuzzy, yellow felt.;tennis CONTEXT,ball PIVOT,spherical GEOMETRY,fuzzy TEXTURE,yellow COLOR,felt MATERIAL
+A thermometer typically consists of a glass or plastic tube with a bulb at one end containing mercury or alcohol.;thermometer PIVOT,glass MATERIAL,plastic MATERIAL,tube CONTEXT
+They are commonly used to measure the temperature of a person's body, food, water, and in scientific experiments.;measure TASK
+A toothbrush is a handheld tool with a handle and bristles that are commonly made of nylon.;toothbrush PIVOT,tool CONTEXT,handle COMPONENT,bristles COMPONENT,nylon MATERIAL
+The bristles are fixed in clusters to the head of the toothbrush.;bristles COMPONENT,head COMPONENT,toothbrush PIVOT
+The bristles may be of different lengths, depending on the intended use.;bristles COMPONENT
+The toothbrush is used for cleaning teeth, removing bacteria, and massaging gums.;toothbrush PIVOT,cleaning TASK
+A tube is a cylindrical object with a hollow space inside.;tube PIVOT,cylindrical GEOMETRY
+It can be made from materials such as metal, plastic, or glass.;metal MATERIAL,plastic MATERIAL,glass MATERIAL
+The most common physical attributes of a tube are its length, outer diameter, and inner diameter.;tube PIVOT
+Tweezers are typically made of metal and have two pointed ends to grasp and manipulate small objects.;Tweezers PIVOT,metal MATERIAL,grasp TASK,manipulate TASK
+They come in various sizes and shapes, with straight or angled tips, and may have a textured or coated surface for better grip.;straight GEOMETRY,tips COMPONENT
+A vase is typically a container made of glass, ceramic, or metal with a narrow neck and wide base.;vase PIVOT,container CONTEXT,glass MATERIAL,ceramic MATERIAL,metal MATERIAL,narrow GEOMETRY,neck COMPONENT,wide GEOMETRY,base COMPONENT
+The most common physical attributes of a vase are its shape, size, and material, which determine its overall aesthetic appeal and level of practicality.;vase PIVOT
+Vases can range in size from small bud vases to large floor-standing vessels, and can be decorated with patterns, colors, or textures to suit a variety of interior design styles.;Vases PIVOT,small SIZE,large SIZE
+A wallet is a small, flat item typically made of leather or plastic that is used to hold money, credit cards, identification, and other small items.;wallet PIVOT,small SIZE,flat GEOMETRY,leather MATERIAL,plastic MATERIAL
+Walnuts are oval-shaped nuts with a hard, brown shell and a wrinkled, light-colored nutmeat inside.;Walnuts PIVOT,oval GEOMETRY,nuts CONTEXT,hard HARDNESS,brown COLOR,shell COMPONENT
+Walnuts are a good source of protein, fiber, and healthy fats, and are often used in cooking as a garnish or ingredient in dishes.;Walnuts PIVOT
+The most common physical attributes of a wine bottle are its narrow neck and base, sloping shoulders, and a capacity of 750 milliliters.;wine CONTEXT,bottle PIVOT,narrow GEOMETRY,neck COMPONENT,base COMPONENT
+It is typically made of glass, may have a cork or screw top closure, and bears a label indicating the wine's origin, vintage, and grape variety.;glass MATERIAL
+Wine bottles are used to store and transport wine for sale and consumption.;Wine CONTEXT,bottles PIVOT
+The most common physical attributes of a wine glass include a stem, a bowl, and a rim.;wine CONTEXT,glass PIVOT,stem COMPONENT,bowl COMPONENT,rim COMPONENT
+The stem allows for the glass to be held without warming the wine with body heat, while the bowl provides ample room for swirling and properly aerating the wine.;stem COMPONENT,glass PIVOT,held TASK,bowl COMPONENT
+The rim is typically narrow, to help concentrate the wine's aromas and flavors.;rim COMPONENT,narrow GEOMETRY
+Wine glasses are used for serving various types of wine, such as reds, whites, and sparkling wines.;Wine CONTEXT,glasses PIVOT
+The most common physical attributes of a chestnut include a hard, shiny exterior shell, a smooth, easily peelable inner skin, and a sweet, nutty flavor.;chestnut PIVOT,hard HARDNESS,shell COMPONENT,smooth TEXTURE,skin COMPONENT
+Chestnuts are typically roasted or boiled and used in various dishes such as stuffing, soups, and desserts.;Chestnuts PIVOT
+Additionally, chestnuts are a common ingredient in many Eastern European and Mediterranean cuisines.;chestnuts PIVOT
+A whisk typically consists of a handle and wire loops, which are tightly spaced and curved to form a bulbous shape.;whisk PIVOT,handle COMPONENT,wire COMPONENT,curved GEOMETRY,bulbous GEOMETRY
+It is usually made of metal or silicone material and is designed to mix ingredients thoroughly and incorporate air into batters and sauces.;metal MATERIAL,silicone MATERIAL,mix TASK
+It is commonly used for beating eggs, whipping cream, and blending pancake and cake batter, among other culinary tasks.;beating TASK,whipping TASK,blending TASK

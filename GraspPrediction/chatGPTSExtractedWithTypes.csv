@@ -1,0 +1,101 @@
+Object;ChatGPTSWithTypes;GraspType;Grasp
+Acorn;PIVOT acorn SIZE small CONTEXT nut COMPONENT top GEOMETRY flattish COMPONENT bottom MATERIAL leather;Precision;2
+Apple;PIVOT apple GEOMETRY round COLOR red COLOR green TEXTURE smooth COMPONENT skin TASK eating;Power;1
+Apricot;PIVOT apricot SIZE small GEOMETRY round CONTEXT fruit TEXTURE fuzzy HARDNESS soft;Power;1
+Avocado;PIVOT avocado GEOMETRY pear-shaped CONTEXT fruit COLOR green TEXTURE bumpy COMPONENT skin SIZE large COLOR green COMPONENT pit;Power;1
+Ballpoint pen;CONTEXT ballpoint PIVOT pen GEOMETRY cylindrical COMPONENT tip MATERIAL plastic MATERIAL metal COMPONENT clip TASK attaching SIZE small COMPONENT ball COMPONENT tip TASK writing TASK writing TASK writing CONTEXT instrument;Precision;3
+Banana;PIVOT banana GEOMETRY curved COLOR yellow COMPONENT skin HARDNESS soft CONTEXT fruit TASK eaten TASK cooking;Power;1
+Banknote;PIVOT banknote;Power;0
+Barrette;PIVOT barrette SIZE small CONTEXT accessory MATERIAL metal MATERIAL plastic TASK hold COMPONENT clasp TASK fastened PIVOT barrette GEOMETRY flat TASK holding COMPONENT clasp CONTEXT clip TASK attaching;Precision;2
+Battery;PIVOT battery;Precision;2
+Bead;PIVOT bead SIZE small GEOMETRY round MATERIAL glass MATERIAL metal MATERIAL plastic PIVOT beads TEXTURE smooth PIVOT bead;Precision;2
+Beer bottle;CONTEXT Beer PIVOT bottles MATERIAL glass GEOMETRY tapered COMPONENT neck GEOMETRY narrow COMPONENT opening CONTEXT Beer TASK hold;Power;1
+Billiard ball;CONTEXT billiard PIVOT ball GEOMETRY spherical MATERIAL resin MATERIAL polyester MATERIAL ivory;Precision;2
+Book;PIVOT book COMPONENT pages COMPONENT cover COMPONENT pages;Power;0
+Bookmark;PIVOT bookmark GEOMETRY thin GEOMETRY rectangular CONTEXT piece MATERIAL paper MATERIAL card TASK mark PIVOT page;Power;0
+Bottle;PIVOT bottle GEOMETRY cylindrical GEOMETRY elongated COMPONENT neck GEOMETRY narrow COMPONENT opening MATERIAL glass MATERIAL plastic CONTEXT container;Power;1
+Bowl;PIVOT bowl GEOMETRY round GEOMETRY curved CONTEXT container GEOMETRY flat COMPONENT base COMPONENT top MATERIAL ceramic MATERIAL glass MATERIAL metal MATERIAL plastic TASK holding SIZE small SIZE large TASK mixing TASK holding PIVOT bowl;Power;0
+Box;PIVOT box GEOMETRY rectangular CONTEXT container GEOMETRY straight COMPONENT sides COMPONENT lid COMPONENT flaps MATERIAL cardboard MATERIAL plastic MATERIAL wood PIVOT box;Power;0
+Bun;PIVOT bun GEOMETRY round COMPONENT head SIZE long COMPONENT ears SIZE small COMPONENT tail;Precision;2
+Candle;PIVOT candle GEOMETRY cylindrical CONTEXT piece MATERIAL wax;Power;1
+Chalice;PIVOT chalice CONTEXT vessel MATERIAL metal MATERIAL glass MATERIAL ceramic COMPONENT stem COMPONENT base;Power;1
+Chalk;PIVOT Chalk HARDNESS soft COLOR white MATERIAL rock TASK writing CONTEXT tool TEXTURE powdery COLOR white;Precision;3
+Chess piece;CONTEXT chess PIVOT piece GEOMETRY rounded COMPONENT top GEOMETRY wide COMPONENT base GEOMETRY slender COMPONENT middle MATERIAL wood MATERIAL plastic;Precision;2
+Chestnut;PIVOT chestnut HARDNESS hard COMPONENT shell TEXTURE smooth COMPONENT skin;Precision;2
+Chocolate bar;CONTEXT chocolate PIVOT bar GEOMETRY rectangular TEXTURE smooth TEXTURE glossy;Power;0
+Cigarette;PIVOT cigarette GEOMETRY thin MATERIAL paper PIVOT cigarette;Precision;3
+Clementine;PIVOT Clementines SIZE small GEOMETRY round CONTEXT fruits GEOMETRY thin TEXTURE smooth COLOR orange COMPONENT peel TASK peel;Power;1
+Coin;PIVOT coin GEOMETRY circular GEOMETRY flat MATERIAL metal;Power;0
+Comb;PIVOT comb SIZE small CONTEXT tool MATERIAL plastic MATERIAL metal MATERIAL wood TASK grooming TASK styling TASK untangling TASK detangle;Power;0
+Compact disk;CONTEXT disk GEOMETRY flat GEOMETRY circular MATERIAL plastic CONTEXT disc;Power;0
+Credit card;CONTEXT credit PIVOT card MATERIAL plastic;Power;0
+Cucumber;PIVOT cucumber SIZE long GEOMETRY cylindrical CONTEXT vegetable TEXTURE smooth COLOR green COMPONENT skin;Power;1
+Cup;PIVOT cup CONTEXT container COMPONENT handle GEOMETRY round COMPONENT opening COMPONENT top GEOMETRY cylindrical GEOMETRY conical TASK drinking PIVOT cup MATERIAL glass MATERIAL ceramic MATERIAL plastic MATERIAL metal;Power;1
+Dice;PIVOT die SIZE small MATERIAL plastic MATERIAL metal GEOMETRY rounded COMPONENT sides;Precision;2
+Donut;PIVOT donut GEOMETRY circular;Power;0
+Earring;PIVOT earring SIZE small CONTEXT piece CONTEXT jewelry MATERIAL metal MATERIAL gold MATERIAL silver;Precision;2
+Egg;PIVOT Egg GEOMETRY oval-shaped HARDNESS hard COMPONENT shell COLOR white GEOMETRY round COLOR yellow COLOR white;Precision;2
+Envelope;PIVOT envelope GEOMETRY rectangular MATERIAL paper COMPONENT flap GEOMETRY flat;Power;0
+Flashlight;PIVOT flashlight GEOMETRY cylindrical COMPONENT bulb COMPONENT button;Power;1
+Flask;PIVOT flask SIZE small GEOMETRY flat GEOMETRY curved COMPONENT lid MATERIAL steel MATERIAL metal MATERIAL glass MATERIAL leather TASK carrying;Power;1
+Fork;PIVOT fork CONTEXT utensil MATERIAL metal GEOMETRY slender COMPONENT prongs COMPONENT handle TASK eating TASK transferring TASK picking SIZE small TASK breaking TASK cooking CONTEXT tool TASK eating;Precision;3
+Fountain pen;CONTEXT fountain PIVOT pen COMPONENT nib MATERIAL metal MATERIAL plastic GEOMETRY cylindrical COMPONENT barrel COMPONENT cap CONTEXT Fountain TASK writing TASK drawing TASK writing;Precision;3
+Frisbee;CONTEXT frisbee PIVOT pen GEOMETRY round GEOMETRY flat GEOMETRY curved COMPONENT edge MATERIAL plastic TASK throwing;Power;0
+Gel pen;CONTEXT gel PIVOT pen MATERIAL plastic MATERIAL rubber TASK writing TASK drawing;Precision;3
+Glasses;PIVOT Glasses COMPONENT lenses MATERIAL plastic MATERIAL metal MATERIAL glass MATERIAL plastic MATERIAL polycarbonate PIVOT Glasses;Precision;2
+Glue stick;CONTEXT glue PIVOT stick GEOMETRY cylindrical MATERIAL plastic HARDNESS solid TASK attaching WEIGHT lightweight COMPONENT stick;Power;1
+Golf ball;CONTEXT golf PIVOT ball SIZE small GEOMETRY spherical MATERIAL rubber MATERIAL plastic CONTEXT Golf PIVOT balls PIVOT golf;Precision;2
+Hairbrush;PIVOT hairbrush COMPONENT handle GEOMETRY flat GEOMETRY rectangular COMPONENT head COMPONENT bristles MATERIAL plastic MATERIAL nylon TASK smoothing TASK shaping;Power;0
+Hammer;PIVOT hammer CONTEXT tool COMPONENT head COMPONENT handle COMPONENT head MATERIAL steel MATERIAL wood TASK strike TASK driving MATERIAL wood TASK breaking COMPONENT handle MATERIAL wood MATERIAL plastic MATERIAL rubber;Power;1
+Handfan;PIVOT handfan GEOMETRY flat WEIGHT lightweight MATERIAL paper MATERIAL fabric MATERIAL plastic;Power;0
+Jar;PIVOT jar CONTEXT container GEOMETRY narrow COMPONENT neck MATERIAL glass MATERIAL ceramic COMPONENT lid COMPONENT cap;Power;1
+Jug;PIVOT jug GEOMETRY tall CONTEXT container GEOMETRY narrow COMPONENT neck COMPONENT handle TASK pouring MATERIAL ceramic MATERIAL glass MATERIAL plastic TASK pouring;Power;1
+Key;PIVOT key SIZE small MATERIAL metal MATERIAL steel MATERIAL brass GEOMETRY flat TASK turning TASK pushing;Power;0
+Kiwifruit;PIVOT kiwifruit COLOR brown TEXTURE fuzzy COLOR green SIZE small COLOR black COMPONENT seeds;Precision;2
+Knife;PIVOT knife COMPONENT blade MATERIAL metal COMPONENT handle HARDNESS hard MATERIAL wood MATERIAL plastic COMPONENT blade TASK cutting TASK slicing TASK chopping TASK cutting COMPONENT handle TASK cutting;Precision;3
+Ladle;PIVOT ladle CONTEXT utensil TASK scooping TASK serving MATERIAL metal MATERIAL plastic COMPONENT bowl SIZE long COMPONENT handle TASK hold GEOMETRY rounded TASK pour GEOMETRY curved COMPONENT lip TASK hold;Precision;3
+Lemon;PIVOT Lemons SIZE small GEOMETRY oval-shaped CONTEXT fruit COLOR yellow COMPONENT skin TASK cooking;Power;1
+Lollipop;PIVOT lollipop SIZE small GEOMETRY round CONTEXT candy COMPONENT stick HARDNESS hard TEXTURE smooth COMPONENT stick TASK hold;Precision;3
+Marble;PIVOT marble TEXTURE smooth MATERIAL rock COLOR white COLOR gray COLOR beige COLOR pink COLOR green;Precision;2
+Marker Pen;CONTEXT marker PIVOT pen GEOMETRY cylindrical MATERIAL plastic MATERIAL felt COMPONENT tip COMPONENT cap COMPONENT tip TASK writing TASK drawing MATERIAL cardboard;Precision;3
+Mobile phone;CONTEXT mobile PIVOT phone COMPONENT screen;Power;0
+Mousepad;PIVOT mousepad GEOMETRY flat MATERIAL rubber MATERIAL foam MATERIAL fabric TEXTURE smooth;Power;0
+Mug;PIVOT mug GEOMETRY cylindrical CONTEXT vessel COMPONENT handle TASK holding MATERIAL ceramic MATERIAL porcelain MATERIAL glass MATERIAL metal MATERIAL plastic SIZE small SIZE large TASK drinking;Power;1
+Newspaper;PIVOT newspapers SIZE large CONTEXT sheets MATERIAL paper;Power;0
+Notepad;PIVOT notepad GEOMETRY rectangular COMPONENT pages MATERIAL paper TASK writing TASK drawing;Power;0
+Onion;PIVOT Onions GEOMETRY round COMPONENT skin COLOR white COLOR yellow COLOR red GEOMETRY thin;Power;1
+Paintbrush;PIVOT paintbrush SIZE long GEOMETRY slender COMPONENT handle COMPONENT bristle COMPONENT tip COMPONENT tip SIZE small SIZE large GEOMETRY round GEOMETRY flat COMPONENT bristles PIVOT brush COMPONENT tips TASK painting SIZE small TASK broader COMPONENT tips TASK creating GEOMETRY flat CONTEXT tool;Precision;3
+Pan;PIVOT pan GEOMETRY flat-bottomed TASK cooking CONTEXT vessel GEOMETRY straight COMPONENT sides COMPONENT handle MATERIAL metal MATERIAL steel MATERIAL aluminum MATERIAL iron TASK cooking TASK cooking;Power;0
+Peach;PIVOT peach GEOMETRY round CONTEXT fruit TEXTURE fuzzy TEXTURE velvety COMPONENT skin COLOR yellow COLOR pink COLOR yellow COLOR orange;Power;1
+Pear;PIVOT pear CONTEXT fruit GEOMETRY rounded COMPONENT bottom GEOMETRY narrower COMPONENT top GEOMETRY thin COMPONENT skin TASK eaten;Power;1
+Pencil;PIVOT pencil GEOMETRY cylindrical TASK writing CONTEXT instrument MATERIAL wood MATERIAL graphite COMPONENT tip GEOMETRY flat COMPONENT eraser TASK writing TASK drawing TASK sketching WEIGHT lightweight;Precision;3
+Pill;PIVOT Pills SIZE small HARDNESS solid GEOMETRY cylindrical GEOMETRY oval-shaped TEXTURE smooth;Precision;2
+Pliers;PIVOT pliers MATERIAL metallic COMPONENT jaws TASK opened TASK closed COMPONENT Pliers GEOMETRY flat GEOMETRY rounded COMPONENT jaws COMPONENT handles PIVOT pliers MATERIAL rubber MATERIAL plastic PIVOT Pliers TASK gripping TASK cutting TASK bending TASK twisting;Power;1
+Plate;PIVOT plate GEOMETRY flat GEOMETRY circular GEOMETRY oval-shaped MATERIAL ceramic MATERIAL glass MATERIAL metal TASK serve SIZE small SIZE large;Power;0
+Playing card;CONTEXT playing PIVOT card GEOMETRY rectangular;Power;0
+Potato;PIVOT potato GEOMETRY round GEOMETRY oval COLOR brown COLOR red COMPONENT skin COLOR white COLOR yellow TASK cooking;Power;1
+Potato chip;CONTEXT potato PIVOT chip GEOMETRY thin TEXTURE crispy CONTEXT slice CONTEXT potato GEOMETRY curved TEXTURE smooth COLOR golden TEXTURE crunchy;Power;0
+Quill;PIVOT quill MATERIAL feather MATERIAL reed COMPONENT tip TASK hold TASK writing TASK drawing;Precision;3
+Remote control;PIVOT remote CONTEXT control GEOMETRY rectangular COMPONENT buttons;Power;0
+Rubik's Cube;CONTEXT Rubik PIVOT cube CONTEXT puzzle SIZE small;Power;1
+Scalpel;PIVOT scalpel SIZE small CONTEXT knife COMPONENT handle MATERIAL metal MATERIAL plastic TASK thrown COMPONENT blade MATERIAL steel COMPONENT tip GEOMETRY curved TASK excising TASK cutting;Precision;3
+Scissors;PIVOT Scissors COMPONENT blades MATERIAL metal COMPONENT handles TASK holding TASK cutting MATERIAL paper MATERIAL fabric COMPONENT blades GEOMETRY straight GEOMETRY curved TASK cutting TASK cutting PIVOT scissors;Precision;3
+Screw;PIVOT screw COMPONENT head COMPONENT shank;Precision;2
+Screwdriver;PIVOT screwdriver SIZE long GEOMETRY narrow GEOMETRY cylindrical MATERIAL metal COMPONENT shaft GEOMETRY flat COMPONENT tip COMPONENT shaft TASK tightening TASK loosening SIZE small MATERIAL metal MATERIAL plastic;Precision;3
+Sheet of paper;PIVOT sheet MATERIAL paper GEOMETRY thin GEOMETRY flat COLOR white MATERIAL Paper TASK writing TASK drawing;Power;0
+Spatula;PIVOT spatula GEOMETRY flat GEOMETRY wide GEOMETRY thin COMPONENT blade MATERIAL metal MATERIAL silicone SIZE long COMPONENT handle TASK flipping TASK turning TASK cooking;Power;0
+Sponge;PIVOT Sponges TEXTURE porous HARDNESS soft MATERIAL flexible GEOMETRY cylindrical GEOMETRY flattened TASK cleaning TASK hold;Precision;2
+Spoon;PIVOT spoon SIZE small GEOMETRY concave CONTEXT utensil MATERIAL metal MATERIAL plastic MATERIAL wood MATERIAL ceramic COMPONENT handle COMPONENT bowl TASK scooping TASK transferring CONTEXT container COMPONENT bowl GEOMETRY oval-shaped COMPONENT handle GEOMETRY thin GEOMETRY straight TASK stirring TASK sipping;Precision;3
+Strawberry;PIVOT strawberry SIZE small COLOR red CONTEXT fruit GEOMETRY heart-shaped SIZE small COMPONENT seeds;Precision;2
+Syringe;PIVOT syringe GEOMETRY cylindrical TASK draw TASK inject SIZE small COMPONENT needle TASK drawing TASK injecting;Precision;3
+Tennis ball;CONTEXT tennis PIVOT ball GEOMETRY spherical TEXTURE fuzzy COLOR yellow MATERIAL felt;Precision;2
+Thermometer;PIVOT thermometer MATERIAL glass MATERIAL plastic CONTEXT tube;Precision;3
+Toothbrush;PIVOT toothbrush CONTEXT tool COMPONENT handle COMPONENT bristles MATERIAL nylon COMPONENT bristles COMPONENT bristles TASK cleaning TASK removing;Precision;3
+Tube;PIVOT tube GEOMETRY cylindrical MATERIAL metal MATERIAL plastic MATERIAL glass PIVOT tube;Precision;3
+Tweezers;PIVOT Tweezers MATERIAL metal GEOMETRY straight GEOMETRY angled COMPONENT tips;Precision;3
+Vase;PIVOT vase CONTEXT container MATERIAL glass MATERIAL ceramic MATERIAL metal GEOMETRY narrow COMPONENT neck GEOMETRY wide COMPONENT base PIVOT vase PIVOT Vases SIZE small SIZE large;Power;1
+Wallet;PIVOT wallet SIZE small GEOMETRY flat MATERIAL leather MATERIAL plastic TASK hold SIZE small TASK organizing;Power;0
+Walnut;PIVOT Walnuts GEOMETRY oval-shaped CONTEXT nuts HARDNESS hard COLOR brown COMPONENT shell;Precision;2
+Whisk;PIVOT whisk COMPONENT handle COMPONENT wire GEOMETRY curved MATERIAL metal MATERIAL silicone TASK mix TASK beating TASK whipping;Precision;3
+Wine bottle;CONTEXT wine PIVOT bottle GEOMETRY narrow COMPONENT neck COMPONENT base GEOMETRY sloping COMPONENT shoulders MATERIAL glass;Power;1
+Wine glass;CONTEXT wine PIVOT glass COMPONENT stem COMPONENT bowl COMPONENT stem MATERIAL glass TASK held TASK swirling GEOMETRY narrow;Power;1
